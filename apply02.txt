@@ -1,0 +1,171 @@
+Chapter 2 - Apply 
+
+ 
+
+HTML 
+Element 
+
+Address of website used to answer the questions posed as comments in 
+template02.html 
+
+title 
+
+http://searchengineland.com/nine-best-practices-for-optimized-title-tags-111979 
+
+header 
+
+http://html5doctor.com/the-header-element/ 
+
+ 
+
+nav 
+
+http://www.w3schools.com/tags/tag_nav.asp 
+
+ 
+
+main 
+
+http://www.sitepoint.com/html5-main-element/ 
+
+ 
+
+footer 
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer 
+
+ 
+
+
+
+ 
+
+10. 
+
+a. Semantic HTML: Semantic HTML is the use of HTML markup to reinforce the meaning of the 
+content in the webpage. 
+
+http://en.wikipedia.org/wiki/Semantic_HTML 
+
+b. The benefit of semantic HTML: The benefit of semantic HTML is to help people, machines, 
+browsers, and programs understand the content of the webpage faster and easier. 
+
+http://stackoverflow.com/questions/1729447/what-are-the-benefits-of-using-semantic-html 
+
+c. What are the new, HTML5 semantic elements? 
+
+ 
+
+Description 
+
+<article> 
+
+Defines an article in the document 
+
+<aside> 
+
+Defines content aside from the page content 
+
+<bdi> 
+
+Defines a part of text that might be formatted in a different direction from other 
+text 
+
+<details> 
+
+Defines additional details that the user can view or hide 
+
+<dialog> 
+
+Defines a dialog box or window 
+
+<figcaption> 
+
+Defines a caption for a <figure> element 
+
+<figure> 
+
+Defines self-contained content, like illustrations, diagrams, photos, code listings, 
+etc. 
+
+<footer> 
+
+Defines a footer for the document or a section 
+
+<header> 
+
+Defines a header for the document or a section 
+
+<main> 
+
+Defines the main content of a document 
+
+<mark> 
+
+Defines marked or highlighted text 
+
+<menuitem> 
+
+Defines a command/menu item that the user can invoke from a popup menu 
+
+<meter> 
+
+Defines a scalar measurement within a known range (a gauge) 
+
+
+
+
+<nav> 
+
+Defines navigation links in the document 
+
+<progress> 
+
+Defines the progress of a task 
+
+<rp> 
+
+Defines what to show in browsers that do not support ruby annotations 
+
+<rt> 
+
+Defines an explanation/pronunciation of characters (for East Asian typography) 
+
+<ruby> 
+
+Defines a ruby annotation (for East Asian typography) 
+
+<section> 
+
+Defines a section in the document 
+
+<summary> 
+
+Defines a visible heading for a <details> element 
+
+<time> 
+
+Defines a date/time 
+
+<wbr> 
+
+Defines a possible line-break 
+
+
+
+ 
+
+http://www.w3schools.com/html/html5_new_elements.asp 
+
+d. What is the primary advantage and disadvantage of using the <main> element vs. <div id="main">? 
+
+
+ 
+
+The main element's primary advantage is that it is a semantic element. It has meaning. The div element 
+by itself does not describe the content. The primary advantage of using a div element is that it is 
+common fully supported by older browsers. 
+
+http://stackoverflow.com/questions/19748487/semantic-markup-why-header-instead-of-div-id-header 
+
+

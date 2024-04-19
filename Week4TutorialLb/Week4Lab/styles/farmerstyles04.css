@@ -1,0 +1,35 @@
+/* Student Name - Wasik Gaus and current date-19-04-2024 */
+
+
+
+#main { clear: both;
+}
+body { color: #000000;
+background-color: #eab;
+font-family: "Times New Roman", serif;
+}
+
+.floatleft { float: left; margin-right: 3%;}
+
+.floatright { float: right; margin-left: 3%;}
+
+#main { clear: both;
+}
+
+ul { list-style-type: none;
+}
+
+#wrapper { width: 70%;
+  margin: 0 auto 0 auto;
+  }
+  
+  #main { background-color: #C5A98B;
+    padding: 10px;
+    }
+    
+    #main, footer { clear: both;
+    }
+
+  footer { font-size: 0.75em;
+    text-align: center;
+    }
