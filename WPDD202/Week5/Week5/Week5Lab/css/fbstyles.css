@@ -1,0 +1,92 @@
+/* Style sheet created by: Student's First Name Student's Last Name, Today's Date */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #FFFFFF;
+}
+
+/* Styles for Mobile Layout */
+
+/* Style for the container centers the page and specifies the width */
+#container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+img {
+	max-width: 100%; /* Make images responsive */
+	box-shadow: .5em .5em .5em #404040;
+	margin: 1%;
+	text-align: center;
+}
+
+/* Style for the header specifies top margin, background color, rounded corners, and center align content */
+header {
+	font-family: Verdana, Arial, serif;
+	font-size: 2em;
+	margin-top: 0.2em;
+	background-color: #FFFFFF;
+	border-radius: 0.5em;
+	text-align: center;
+}
+
+/* Style for nav specifies text properties */
+nav {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* Style for the main specifies a block display, text properties, margins, padding, rounded corners, and borders  */
+main {
+	display: block;
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-size: 1em;
+	margin-top: 0.2em;
+	padding: 0.5em;
+	border-top: solid 0.2em #FF6600; 
+	border-bottom: solid 0.2em #FF6600;
+}
+
+/* Style for the footer specifies font size, text alignment, and top margin */
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+}
+
+
+/* Style for the nav specifies block display, full width, and removes margin */
+nav {
+	display: block;
+	width: 100%;
+	margin: 0;
+}
+
+/* Style for each div within nav */
+.nav-button {
+	width: 100%; /* Full width */
+	margin-bottom: 10px; /* Add space between buttons */
+}
+
+/* Style for anchor elements within nav divs */
+.nav-button a {
+	display: block; /* Display as block */
+	background-color: #28a745; /* Green button background color */
+	color: white; /* Text color */
+	text-decoration: none; /* Remove underline */
+	text-align: center; /* Center text */
+	padding: 10px; /* Padding inside buttons */
+	border-radius: 10px; /* Rounded edges */
+	font-weight: bold; /* Make text bold */
+	font-family: Arial, sans-serif;
+	transition: background-color 0.3s ease; /* Add transition for hover effect */
+}
+
+/* Add hover effect to change background color */
+.nav-button a:hover {
+	background-color: #218838; /* Darker green on hover */
+}

@@ -14,6 +14,14 @@ body {
 	margin-right: auto;
 }
 
+
+img {
+	max-width: 100%; /* Make images responsive */
+	box-shadow: .5em .5em .5em #404040;
+	margin: 1%;
+	text-align: center;
+}
+
 /* Style for the header specifies top margin, background color, rounded corners, and center align content */
 header {
 	font-family: Verdana, Arial, serif;
@@ -48,4 +56,37 @@ footer {
 	font-size: .70em;
 	text-align: center;
 	margin-top: 2em;
+}
+
+
+/* Style for the nav specifies block display, full width, and removes margin */
+nav {
+	display: block;
+	width: 100%;
+	margin: 0;
+}
+
+/* Style for each div within nav */
+.nav-button {
+	width: 100%; /* Full width */
+	margin-bottom: 10px; /* Add space between buttons */
+}
+
+/* Style for anchor elements within nav divs */
+.nav-button a {
+	display: block; /* Display as block */
+	background-color: #28a745; /* Green button background color */
+	color: white; /* Text color */
+	text-decoration: none; /* Remove underline */
+	text-align: center; /* Center text */
+	padding: 10px; /* Padding inside buttons */
+	border-radius: 10px; /* Rounded edges */
+	font-weight: bold; /* Make text bold */
+	font-family: Arial, sans-serif;
+	transition: background-color 0.3s ease; /* Add transition for hover effect */
+}
+
+/* Add hover effect to change background color */
+.nav-button a:hover {
+	background-color: #218838; /* Darker green on hover */
 }
