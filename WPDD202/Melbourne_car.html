@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Melbourne Car Rental - Premium car rental service offering top-notch services to both local and international customers.">
+    <meta name="keywords" content="car rental, premium car rental, Melbourne car rental, rent a car Melbourne">
+    <meta name="author" content="Summit IT Company">
+    <title>Melbourne Car Rental | Premium Car Rental Service</title>
+    <link rel="stylesheet" href="css/stlyes01.css">
+    <link rel="icon" href="images/favicon.ico">
+</head>
+<body>
+    <header>
+        <div id="logo">
+            <img src="images/logo.png" alt="Melbourne Car Rental Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#fleet">Our Fleet</a></li>
+                <li><a href="#rates">Rates</a></li>
+                <li><a href="#booking">Booking</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>Welcome to Melbourne Car Rental</h1>
+            <p>Your premium car rental service in Melbourne, offering top-notch services for all your travel needs.</p>
+            <img src="images/home-banner.jpg" alt="Melbourne Car Rental Banner" class="responsive-img">
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <div class="service">
+                <img src="images/service-1.jpg" alt="Service 1">
+                <h3>Service One</h3>
+                <p>Details about Service One.</p>
+            </div>
+            <div class="service">
+                <img src="images/service-2.jpg" alt="Service 2">
+                <h3>Service Two</h3>
+                <p>Details about Service Two.</p>
+            </div>
+            <!-- Add more services as needed -->
+        </section>
+
+        <section id="fleet">
+            <h2>Our Fleet</h2>
+            <div class="fleet-item">
+                <img src="images/fleet-1.jpg" alt="Car Model 1">
+                <h3>Car Model 1</h3>
+                <p>Details about Car Model 1.</p>
+            </div>
+            <div class="fleet-item">
+                <img src="images/fleet-2.jpg" alt="Car Model 2">
+                <h3>Car Model 2</h3>
+                <p>Details about Car Model 2.</p>
+            </div>
+            <!-- Add more fleet items as needed -->
+        </section>
+
+        <section id="rates">
+            <h2>Rates</h2>
+            <p>Details about pricing and rates.</p>
+            <!-- Add rate details -->
+        </section>
+
+        <section id="booking">
+            <h2>Book Your Car</h2>
+            <form action="booking.html" method="post">
+                <label for="pickup-location">Pick-Up Location:</label>
+                <input type="text" id="pickup-location" name="pickup-location" required>
+
+                <label for="dropoff-location">Drop-Off Location:</label>
+                <input type="text" id="dropoff-location" name="dropoff-location" required>
+
+                <label for="pickup-date">Pick-Up Date:</label>
+                <input type="date" id="pickup-date" name="pickup-date" required>
+
+                <label for="dropoff-date">Drop-Off Date:</label>
+                <input type="date" id="dropoff-date" name="dropoff-date" required>
+
+                <label for="car-type">Car Type:</label>
+                <select id="car-type" name="car-type">
+                    <option value="economy">Economy</option>
+                    <option value="compact">Compact</option>
+                    <option value="mid-size">Mid-Size</option>
+                    <option value="full-size">Full-Size</option>
+                    <option value="luxury">Luxury</option>
+                </select>
+
+                <input type="submit" value="Check Availability">
+            </form>
+        </section>
+
+        <div> 
+        <section id="contact">
+            <h2>Contact Us</h2>
+              <address>
+                <p>123 Melbourne Street, Melbourne, NSW 2000</p>
+                <p>Email: info@Melbournecarrental.com</p>
+                <p>Phone: +61 2 1234 5678</p>
+            </address>
+            <form action="contact.html" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <input type="submit" value="Send Message">
+            </form>
+        </section>
+        </div>
+
+
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Melbourne Car Rental. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

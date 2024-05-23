@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title>Welcome to Fitness First</title>
+	  <meta charset="utf-8">
+	  <style type="text/css">
+         #wrapper {
+         width: 1000px;
+         background: #FFFFFF;
+         margin: 0 auto;
+         border: 1px solid #000000;
+         text-align: left;
+         }
+		 #header {
+		 height:150px;
+		 background: #EBEBEB;
+		 width:1000px;
+		 }
+		 #navigation {
+		 height: 30px;
+		 background: #EBEBEB;
+		 text-align:center;
+		 }
+		 #sidebar {
+		 float:left;
+		 width:200px;
+		 background:#EBEBEB;
+		 padding: 15px 10px 15px 20px;
+		 }
+		 #maincontent {
+		 margin: 0 0 0 250px;
+		 padding: 0 20px 20px 20px;
+		 border: 1px solid #000000;
+		 }
+		 #footer {
+		 height: 30px;
+		 background: #EBEBEB;
+		 text-align:center;
+		 clear:both;
+		 }
+     </style>
+	</head>
+	
+	<body>
+	  <div id="wrapper">
+	     <div id="header">
+		 <img src="images/logo.png" width="150" height="100"><font face="arial" size="+2">Fitness First</font>
+		 </div>
+		 <div id="navigation">
+		 Fitness offerings | Our Classes | Our Clubs | 
+		 Timetable | Memberships | Free Trial | Join us |
+		 Blog | Log-in
+		 </div>
+	     <div id="sidebar">
+	      <form name="search" method="post" action="search.php">
+		    <fieldset>
+			  <legend>Search</legend>
+			  <input type="text" name="searchterm">
+			  <input type="submit" value="search">
+			</fieldset>
+		  </form>
+		  <br>
+		  <form name="login" method="post" action="login.php">
+		    <fieldset>
+		     <legend>Log-in</legend>
+			 <label for="user name">User Name</label>
+			 <input type="text" name="username">
+			 <label for="password">Password</label>
+			 <input type="password" name="password">
+			 <input type="submit" value="Log-in">
+			</fieldset>
+		  </form>
+	     </div>
+		 <div id="maincontent">
+		 this is my main content area
+		 </div>
+		 <div id="footer">
+		 &copy; Fitness First           Copyright | Privacy Policy | Legal issues |
+		 help & support | contact us
+		 </div>
+	  </div>
+	</body>
+	</html>
