@@ -6,7 +6,7 @@
 	<title>Forward Fitness Club</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1"> 
-	
+	<script src="scripts/myFunctions.js" type="text/javascript"></script>
 </head>
 <body>
 
@@ -66,8 +66,7 @@
 			<label for="questions">Questions?</label>
 			<textarea id="questions" name="questions" rows="3" cols="25"></textarea>
 			
-			
-			<input type="reset" id="reset" value="Reset Form" class="btn">
+			<input type="submit" id="submit" value="Submit" class="btn" onclick="tyAlert()">
 		</form>
 			
 		<p>We are located at:<br>
@@ -86,6 +85,16 @@
 	<!-- Use the footer area to add webpage footer content -->
 	<footer>
 	
+	</div>
+		
+	<audio autoplay controls>
+		<source src="media/ffc_aud.mp3" type="audio/mp3"> 
+		<source src="media/ffc_aud.ogg" type="audio/ogg"> 
+		<source src="media/ffc_aud.wav" type="audio/wav"> 
+		<p>Your browser does not support the audio tag.</p>
+	</audio>
+	
+</main>
 
 		
 	</footer>
