@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Melbourne Car Rental - Premium car rental service offering top-notch services to both local and international customers.">
+    <meta name="keywords" content="car rental, premium car rental, Melbourne car rental, rent a car Melbourne">
+    <meta name="author" content="Summit IT Company">
+    <title>Melbourne Car Rental | Premium Car Rental Service</title>
+
+    <!-- Correcting the file path for the stylesheet -->
+    <link rel="stylesheet" href="css/styles01.css">
+    <link rel="icon" href="images/favicon.ico">
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <style>
+
+/* General reset for margin and padding */
+#contactUs_body, #contactUs_html{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Styles for the navbar */
+#companyname_nav_bar {
+    position: fixed;
+    width: 99%;
+    top: 0;
+    left: 0;
+    background-color: #212121; /* Dark background color */
+    color: #fff;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#companyname_nav_bar h1 {
+    margin: 0;
+    font-size: 1.8em;
+    font-weight: 700;
+}
+
+#companyname_nav_bar nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+#companyname_nav_bar nav ul li {
+    margin-left: 30px;
+}
+
+#companyname_nav_bar nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    transition: background-color 0.3s;
+    font-weight: 500;
+}
+
+#companyname_nav_bar nav ul li a:hover {
+    background-color: #424242; /* Darker background color on hover */
+}
+
+/* Ensure the content does not hide behind the fixed navbar */
+#contactUs_body {
+    padding-top: 80px; /* Adjust this value based on the navbar height */
+    background-color: #f5f5f5; /* Light background color */
+}
+
+/* Styles for the header */
+#contactUs_header {
+    padding: 40px 0;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+#logo img {
+    height: 220px; /* Reduced logo size */
+    width: auto;
+}
+
+/* Styles for the main content */
+#contactUs_main {
+    padding: 20px;
+}
+
+#contact_form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#contact_form label, #contact_form input, #contact_form textarea {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+}
+
+#contact_form input[type="text"], #contact_form input[type="email"], #contact_form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%; /* Full width input fields */
+}
+
+#contact_form input[type="submit"] {
+    background-color: #ff5722; /* Orange submit button */
+    color: #fff;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1.1em;
+    font-weight: 500;
+    width: 100%; /* Full width submit button */
+}
+
+#contact_form input[type="submit"]:hover {
+    background-color: #f44336; /* Darker orange on hover */
+}
+
+/* Styles for the address section */
+#contactUs_address {
+    background-color: #fff;
+    padding: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    max-width: 600px;
+    margin: 0 auto 40px auto;
+    text-align: center;
+}
+
+#contactUs_address h2 {
+    margin: 0 0 10px;
+    font-size: 1.6em;
+    font-weight: 700;
+}
+
+/* Styles for the footer */
+#contactUs_footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #212121; /* Dark footer background */
+    color: #fff;
+    font-size: 0.9em;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    #companyname_nav_bar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #companyname_nav_bar nav ul {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    #companyname_nav_bar nav ul li {
+        margin-left: 0;
+        margin-bottom: 5px;
+    }
+}
+
+/* Styles for the main content */
+#contactUs_main {
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Center the form horizontally */
+}
+
+#contact_form {
+    max-width: 600px;
+    width: 100%; /* Ensure the form takes up the available width */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+    background-color: #ffffff; /* White background color */
+}
+
+#contact_form h3 {
+    margin-top: 0; /* Remove default margin */
+}
+
+#contact_form label {
+    display: block;
+    font-weight: bold;
+}
+
+#contact_form input[type="text"],
+#contact_form input[type="email"],
+#contact_form textarea {
+    width: calc(100% - 20px); /* Adjust input width for padding */
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s; /* Add transition effect for border color */
+}
+
+#contact_form input[type="text"]:focus,
+#contact_form input[type="email"]:focus,
+#contact_form textarea:focus {
+    border-color: #ff5722; /* Change border color on focus */
+    outline: none; /* Remove default focus outline */
+}
+
+#contact_form textarea {
+    resize: vertical; /* Allow vertical resizing of textarea */
+}
+
+#contact_form input[type="submit"] {
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 4px;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+#contact_form input[type="submit"]:hover {
+    background-color: #f44336;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    #contact_form {
+        max-width: 100%; /* Adjust form width for smaller screens */
+    }
+}
+
+
+
+    </style>
+</head>
+<body id="contactUs_body">
+    <header id="contactUs_header">
+        <div id="logo">
+            <img src="img/buying-from-car-dealer.gif" alt="Melbourne Car Rental Logo" height="200" width="200">
+            <img src="img/th.jpeg" alt="Melbourne Car Rental Logo" height=auto width= auto>
+        </div>
+
+      
+
+        <div id="companyname_nav_bar">
+            <h1>Melbourne Car Rental</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#fleet">Our Fleet</a></li>
+                    <li><a href="#rates">Rates</a></li>
+                    <li><a href="#booking">Booking</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main id="contactUs_main">
+        <div> 
+            <section id="contact">
+
+                <div id="contactUs_address">
+                
+                <h2>Contact Us</h2>
+                <address>
+                    <p>123 Melbourne Street, Melbourne, NSW 2000</p>
+                    <p>Email: info@Melbournecarrental.com</p>
+                    <p>Phone: +61 2 1234 5678</p>
+                </address>
+                </div>
+
+                <form id="contact_form" action="contact.html" method="post">
+
+                    <h3>Send us a message for any Enquiry</h3>
+                    <label for="First_name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    <br>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                    <br>
+                    <label for="tel">Mobile or Telephone:</label>
+                    <input type="tel" id="tel" name="tel" required>
+                    <br>
+                    <label for="message">Message:</label>
+                    <br>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                    <br>
+                    <input type="submit" value="Send Message">
+                    <br>
+                </form>
+            </section>
+        </div>
+
+    </main>
+
+    <footer id="contactUs_footer">
+        <p>&copy; 2024 Melbourne Car Rental. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>  
+    
