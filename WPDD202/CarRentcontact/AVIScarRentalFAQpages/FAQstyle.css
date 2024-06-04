@@ -1,0 +1,79 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.faq {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.question {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.question::before {
+  content: ">";
+  font-size: 1.2em;
+  transition: transform 0.3s ease;
+}
+
+.faq.active .question::before {
+  transform: rotate(90deg);
+}
+
+.answer {
+  display: none;
+  padding: 10px;
+}
+
+.faq.active .answer {
+  display: block;
+}
+
+
+.nav_FAQ {
+  padding: 20px; /* Common padding around the .nav_FAQ container */
+  display: flex; /* Use flexbox for side-by-side layout */
+  background-color: azure;
+}
+
+.navColumn {
+  width: 25%; /* .navColumn occupies 35% of the window */
+  padding: 10px; /* Separate padding around .navColumn */
+  border-right: 1px solid #ddd; /* Add a right border to separate the columns */
+  background-color: blanchedalmond;
+}
+
+.FAQsection {
+  width: 65%; /* .FAQsection occupies 55% of the window */
+  padding: 10px; /* Separate padding around .FAQsection */
+  background-color: azure;
+}
+
+.heroBan {
+  position: relative;
+}
+
+.banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 2rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
