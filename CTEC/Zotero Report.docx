@@ -1,0 +1,2772 @@
+  *
+
+
+        Internet of Things (IoT): Opportunities, issues and challenges
+        towards a smart and sustainable future
+
+    Item Type 	Journal Article
+    Author 	Sandro Nižetić
+    Author 	Petar Šolić
+    Author 	Diego López-de-Ipiña González-de-Artaza
+    Author 	Luigi Patrono
+    Abstract 	Abstract: The rapid development and implementation of
+    smart and IoT (Internet of Things) based technologies have allowed
+    for various possibilities in technological advancements for
+    different aspects of life. The main goal of IoT technologies is to
+    simplify processes in different fields, to ensure a better
+    efficiency of systems (technologies or specific processes) and
+    finally to improve life quality. Sustainability has become a key
+    issue for population where the dynamic development of IoT
+    technologies is bringing different useful benefits, but this fast
+    development must be carefully monitored and evaluated from an
+    environmental point of view to limit the presence of harmful impacts
+    and ensure the smart utilization of limited global resources.
+    Significant research efforts are needed in the previous sense to
+    carefully investigate the pros and cons of IoT technologies. This
+    review editorial is partially directed on the research contributions
+    presented at the 4th International Conference on Smart and
+    Sustainable Technologies held in Split and Bol, Croatia, in 2019
+    (SpliTech2019) as well as on recent findings from literature. The
+    SpliTech2019 conference was a valuable event that successfully
+    linked different engineering professions, industrial experts and
+    finally researchers from academia. The focus of the conference was
+    directed towards key conference tracks such as Smart City,
+    Energy/Environment, e-Health and Engineering Modelling. The research
+    presented and discussed at the SpliTech2019 conference helped to
+    understand the complex and intertwined effects of IoT technologies
+    on societies and their potential effects on sustainability in
+    general. Various application areas of IoT technologies were
+    discussed as well as the progress made. Four main topical areas were
+    discussed in the herein editorial, i.e. latest advancements in the
+    further fields: (i) IoT technologies in Sustainable Energy and
+    Environment, (ii) IoT enabled Smart City, (iii) E-health – Ambient
+    assisted living systems (iv) IoT technologies in Transportation and
+    Low Carbon Products. The main outcomes of the review introductory
+    article contributed to the better understanding of current
+    technological progress in IoT application areas as well as the
+    environmental implications linked with the increased application of
+    IoT products. Keywords: IoT; smart city; sustainability; energy;
+    environment; SpliTech2020.
+    Date 	11/2020
+    Language 	en
+    Short Title 	Internet of Things (IoT)
+    Library Catalog 	DOI.org (Crossref)
+    URL 	https://linkinghub.elsevier.com/retrieve/pii/S095965262032922X
+    Accessed 	9/4/2024, 9:48:19 PM
+    Volume 	274
+    Pages 	122877
+    Publication 	Journal of Cleaner Production
+    DOI 	10.1016/j.jclepro.2020.122877
+    <http://doi.org/10.1016/j.jclepro.2020.122877>
+    Journal Abbr 	Journal of Cleaner Production
+    ISSN 	09596526
+    Date Added 	9/4/2024, 9:48:19 PM
+    Modified 	9/4/2024, 10:51:30 PM
+
+
+          Notes:
+
+      o
+
+        6. Concluding remarks and future directions in the field
+
+        This review paper discussed and presented latest research
+        findings that were included within
+
+        the JCELPRO VSI SpliTech2019 and dedicated to the 4th
+        International Conference on Smart
+
+        and Sustainable Technologies (SpliTech2019). The contributions
+        as well as herein presented
+
+        knowledge is summarized and discussed in upcoming sections.
+
+        The Intense digitalization in recent years has allowed for
+        different technological possibilities
+
+        that have already gradually been changing the main economic
+        sectors and societies in general.
+
+        Digitalization in different economic sectors enabled various
+        possibilities for advancements
+
+        and for a more efficient utilization of limited resources,
+        systems or processes. The main driver
+
+        for an efficient digitalization in various sectors is
+        information technology, i.e., IoT supported
+
+        smart technologies. In the previous sense, the energy sector is
+        one of the key sectors where
+
+        ‘’energy digitalization’’ has already been rapidly developing in
+        various energy related fields.
+
+        Currently, one of the most progressing implementation areas of
+        IoT technologies is related to
+
+        the energy sector. The developing solutions are focused on smart
+        homes, i.e. advanced
+
+        automatization of home energy systems, development of smart and
+        adaptive micro-grids, or
+
+        advancements in efficient demand-side management of power
+        systems. A circular economy
+
+        concept has also been intensively worked on where various
+        concepts have been investigated,
+
+        which can support smart waste management and help bridge one of
+        the main challenges in
+
+        society. Recently, different concepts have been tested where IoT
+        technologies could be used
+
+        for environmental protection, primarily for the monitoring of
+        air quality, which is a big
+
+        potential in that sense.       Healthcare systems can also be
+        significantly improved with the application of IoT
+
+        devices, i.e. via the E-health concept. An improved quality of
+        services and patient safety
+
+        could be enabled with an advanced IoT supported monitoring
+        system. The prediction of life
+
+        threatening states could be efficiently detected with a better
+        treatment of patients, such as
+
+        timely therapy decisions and qualitative rehabilitation. In
+        general, large healthcare systems
+
+        could also benefit from IoT, both in efficiency and from a cost
+        aspect, which is important for
+
+        hospitals. The current pandemic state with COVID-19 allowed for
+        the consideration of
+
+        different IoT applications or devices that could help in
+        efficiently monitoring and controlling
+
+        the pandemic, which proves the added value of IoT products.
+
+        The transportation sector is currently in gradual transition
+        where a mix of transportation
+
+        vehicle technologies is expected in upcoming decades with the
+        involvement of electric
+
+        vehicles primarily along with hybrid or hydrogen based vehicles.
+        The main advancements of
+
+        IoT in transportation are the support of the smart car concept
+        where different vehicle
+
+        operating parameters can be monitored in an efficient manner.
+        The main advantage is early
+
+        detection of severe failures, then regular maintenance, improved
+        fuelling and finally
+
+        improvement of safety and driving experience in general. The
+        most challenging IoT
+
+        application area is in the case of autonomous vehicles, where
+        safety is the main goal and in
+
+        that sense, significant research advancements are expected to
+        occur in the near future.
+
+        The smart city concept is the most progressing IoT application
+        area since cities have
+
+        been vastly populated, which causes severe infrastructural
+        issues. The main benefit of IoT
+
+        technologies in the smart city concept is to bridge severe
+        infrastructural challenges in highly
+
+        populated cities. The improvement of life quality in cities is
+        also expected thanks to the
+
+        efficiency improvement of various convectional services in
+        cities. The early detection of
+
+        various and common daily problems in cities could be efficiently
+        solved with IoT as with
+
+        transportation issues, energy and water shortage supplies,
+        security issues, etc. The biggest
+
+        challenge in the smart city concept is directed to the efficient
+        networking and operation of
+
+        different sensing technologies, which must be followed with the
+        proper education of the
+
+        population.
+
+        Each technology that is rapidly progressing has got specific
+        potential drawbacks that need
+
+        to be carefully analysed and addressed. Since IoT devices are
+        measured in billions, and with
+
+        large potential impacts on the population, specific challenges
+        need to be addressed, which
+
+        were detected based on the herein conducted review. The main
+        goal is to secure a sustainable
+
+        and balanced development of IoT technologies. Therefore, further
+        issues are briefly discussed
+
+        below and should be carefully considered during the further
+        development of IoT technologies:  - the rapid development of IoT
+        technologies causes fast consumption of raw materials to
+
+        produce different electronic devices where unfortunately some of
+        raw materials are
+
+        already rare or becoming,
+
+        - electronic devices are becoming more economically acceptable
+        where a potentially
+
+        large population would be affected. High production volumes are
+        expected which can
+
+        finally cause a rebound effect and a more rapid unwanted
+        utilization of already limited
+
+        resources,
+
+        - the sustainability aspect and long-term effects of IoT
+        technologies are not clear and
+
+        insufficiently investigated. A noticeable amount of energy would
+        be needed to operate
+
+        IoT devices and the electronic industry is leaving different
+        unfavourable
+
+        environmental footprints that also need to be carefully
+        investigated,
+
+        - electronic waste will become one of the major issues caused
+        with the planned rise of
+
+        IoT products. Recycling rates must be improved and better
+        e-waste management
+
+        should be secured,
+
+        - IoT technologies can cause social impacts in specific
+        industrial branches or businesses
+
+        since working labour could be reduced and direct social contacts
+        have also been
+
+        reduced. In that sense, the application of IoT technologies
+        should be carefully
+
+        considered taking the raised issues into account,
+
+        - significant advancements in both specific electronic
+        components as well as userfriendly
+
+        software solutions are required,
+
+        - further development in sensing technologies and advanced data
+        acquisition systems is
+
+        also required,
+
+        - the minimization of energy consumption in IoT devices is a
+        crucial target, i.e.
+
+        reduction of energy supply.
+
+        From the herein addressed recent research findings within the
+        VSI SpliTech2019, it is obvious
+
+        that developments in various IoT application sectors are
+        promising but further advancements
+
+        are expected and that are mainly focused on maximizing the
+        efficiency of specific IoT
+
+        supported processes or technologies, minimizing resource
+        utilization (raw materials and
+
+        energy) and environmental footprints. IoT technologies are an
+        opportunity for humanity and
+
+        can bring important as well as useful benefits to the
+        population. The authors contributions
+
+        within the JCLEPRO VSI SpliTech2019 provided quality discussion
+        and presentation of the
+
+        latest advancements in the field, and most important, they
+        contributed to the better understanding of IoT application
+        areas, technological possibilities, but also potential
+
+        drawbacks and issues that should be carefully monitored in
+        future terms. The crucial and
+
+        important aspects are linked with sustainability where the rapid
+        developments in IoT
+
+        technologies must be carefully monitored from a resource and
+        environmental point of view to
+
+        ensure balanced and sustainable development of IoT products.
+        Herein presented knowledge
+
+        and published works in the Journal of Cleaner Production are
+        serving as important
+
+        foundations for researchers dealing with this challenging and
+        dynamic research field.
+
+        Acknowledgments: This work has been supported in part by
+        Croatian Science Foundation
+
+        under the project “Internet of Things: Research and
+        Applications”, UIP-2017-05-4206.
+
+      o
+
+        Generative summary : The document is a review editorial
+        discussing the opportunities, issues, and challenges of Internet
+        of Things (IoT) technologies towards a smart and sustainable
+        future, with a focus on various application areas such as
+        sustainable energy, smart cities, e-health, and transportation.
+
+
+        *Journal Pre-proof*
+
+        The article discusses the opportunities, issues, and challenges
+        of Internet of Things (IoT) towards a smart and sustainable
+        future. It was received on 11 May 2020, revised on 12 June 2020,
+        and accepted on 13 June 2020 for publication in the Journal of
+        Cleaner Production. The IoT applications mentioned include smart
+        grids, buildings, transportation, infrastructure, environmental
+        protection, circular economy, AAL healthcare systems, smart
+        cities, energy sustainability, and e-health.
+
+        *CONFLICT OF INTEREST STATEMENT*
+
+        The publication in Journal of Cleaner Production on Internet of
+        Things (IoT) confirms no conflicts of interest or significant
+        financial support. All named authors have read and approved the
+        manuscript, with no other contributors omitted. The
+        Corresponding Author is responsible for editorial communications.
+
+        *Internet of Things (IoT): Opportunities, issues and challenges
+        towards a smart and sustainable future*
+
+        This section discusses IoT technologies in sustainable energy,
+        smart cities, e-health, and transportation.
+
+          + IoT technologies aim to simplify processes, improve
+            efficiency, and enhance quality of life.
+          + Sustainability is a key concern in the rapid development of
+            IoT technologies.
+          + The SpliTech2019 conference focused on Smart City,
+            Energy/Environment, e-Health, and Engineering Modelling.
+          + Research at the conference highlighted the effects of IoT
+            technologies on societies and sustainability.
+          + Topics discussed include Sustainable Energy and Environment,
+            Smart City, E-health, and Transportation.
+          + The review article provides insights into current
+            technological progress and environmental implications of IoT
+            products.
+
+        *1. Introduction*
+
+        The section discusses the rise of IoT technologies, their
+        potential benefits, environmental impacts, and challenges in
+        implementation.
+
+          + IoT technologies are at the forefront of technological
+            developments, with over 125 ·109 IoT devices expected to be
+            connected in the next 10 years.
+          + The market structure of IoT technologies is focused on smart
+            cities and industrial IoT, with projections of over 120 ·109
+            USD investments by 2021.
+          + Smart cities and industrial IoT are the main areas of IoT
+            projects, with a rise in smart cities, connected health, and
+            smart supply chain segments.
+          + Challenges in IoT implementation include issues with network
+            monitoring, security tools, software bugs, maintenance, and
+            network security.
+          + Wi-Fi speed is expected to increase globally, with the most
+            intense increase in the Asian region.
+          + The production of electronic gadgets for IoT technologies
+            leads to environmental impacts, including the consumption of
+            limited resources and chemicals.
+          + The recycling rate of electronic waste is low, with the
+            annual generation of e-waste being more than 44·109 metric
+            tonnes globally.
+          + Strategic actions are needed to address the e-waste issue
+            and ensure a sustainable development of IoT technologies.
+
+        *1.1. Necessity for smart technologies*
+
+        The world's population is over 7.7 billion, growing at a rate of
+        1.1% annually, with 68% projected to live in cities by 2050.
+        Urbanization will create infrastructure challenges,
+        necessitating IoT technologies for efficient services and
+        connectivity. IoT offers benefits through smart networking and
+        applications, addressing complex urban demands.
+
+        *1.2. Application areas*
+
+        This section discusses various IoT applications in industries,
+        smart cities, transportation, agriculture, healthcare, and power
+        management.
+
+          + IoT applications are most prominent in industries and smart
+            cities, with a focus on efficiency and communication.
+          + Smart city concepts utilize IoT for improved services like
+            transportation, security, and energy management.
+          + IoT in smart homes enhances quality of life with energy
+            savings and renewable energy integration.
+          + Agriculture benefits from IoT for yield monitoring, disease
+            detection, and water savings.
+          + Smart waste management systems use IoT for efficient waste
+            monitoring and recycling.
+          + Healthcare systems utilize IoT for patient monitoring,
+            safety, and remote health services.
+          + Transportation sector sees advancements with IoT in smart
+            cars, autonomous vehicles, and smart parking.
+          + IoT technologies play a crucial role in smart grids for
+            efficient power management and electricity savings.
+
+        *1.3. Review methodology*
+
+        This section discusses advancements in IoT technologies in
+        various application areas.
+
+          + 29 out of 38 papers from the SpliTech2019 conference were
+            selected for inclusion in the VSI.
+          + Authors from 20 different countries contributed to the VSI
+            SpliTech2019.
+          + The main topical areas covered include sustainable energy,
+            Smart City, E-health, and transportation.
+          + The review editorial highlights the need for more research
+            efforts to advance IoT technologies.
+
+        *2. IoT technologies in Sustainable Energy and Environment*
+
+        This section discusses the role of IoT technologies in energy
+        transition, smart grids, renewable energy, waste management, and
+        environmental protection.
+
+          + The section highlights the necessity for energy
+            digitalization due to rapid information technology development.
+          + Various renewable energy technologies and policies are
+            crucial for achieving global energy transition goals.
+          + The importance of improving energy efficiency in renewable
+            energy technologies like photovoltaics and wind generation
+            is emphasized.
+          + IoT technologies play a significant role in smart grids,
+            smart buildings, and waste management systems.
+          + Studies focus on IoT applications for energy management,
+            smart home systems, and industrial energy efficiency solutions.
+          + IoT technologies are also explored for environmental
+            protection, air quality monitoring, and circular economy
+            concepts.
+          + The section discusses the potential of IoT technologies in
+            reducing energy consumption, improving equipment
+            maintenance, and enhancing environmental sustainability.
+          + Research efforts are needed to address economic aspects,
+            environmental impacts, and develop comprehensive IoT
+            frameworks for sustainable energy and environment applications.
+
+        *3. IoT enabled Smart City*
+
+        This section discusses IoT-enabled Smart City infrastructure,
+        hardware technologies, power consumption, LPWAN technologies,
+        and microcontroller comparisons.
+
+          + IoT-based Smart City concept explained through a tree
+            diagram with applications and functionalities.
+          + Importance of sensing hardware in remote areas with almost
+            zero-energy use for prolonged battery life.
+          + Overview of standard sensing node architecture and power
+            management for efficient data transmission.
+          + LPWAN technologies like LoRa, NB-IoT, and Sigfox for
+            long-range data transmission with low energy consumption.
+          + Comparison of LPWAN technologies based on modulation,
+            bandwidth, range, and cost.
+          + Strategies for maximizing battery life in IoT devices
+            through low-power states and deep-sleep periods.
+          + Comparison of microcontrollers for IoT applications based on
+            features like memory, clock frequency, power consumption,
+            and cost.
+          + Emphasis on the need for reliable and cost-effective sensing
+            technologies to enable various smart city functionalities.
+
+        *4. E-health • Ambient assisted living systems*
+
+        This section discusses the use of IoT technologies in creating
+        Ambient Assisted Living systems for elderly care.
+
+          + By 2040, 50% of Europe's population will be over 60 years
+            old, and in the USA, one in six citizens will be over 65 by
+            2020.
+          + AAL technologies aim to support daily routines, improve
+            health, and enhance quality of life for the elderly.
+          + Various technologies like sensors, GPS, and Bluetooth are
+            used for monitoring, tracking, and providing assistance to
+            the elderly.
+          + Wearable devices with sensors are used for health
+            monitoring, including blood glucose and blood pressure
+            measurements.
+          + Indoor positioning systems like Bluetooth are utilized for
+            accurate tracking and monitoring in indoor environments.
+          + Proposed architectures integrate IoT devices for
+            non-intrusive monitoring and support for older adults.
+          + Systems for continuous monitoring and real-time services are
+            developed to collect and transmit health data for evaluation.
+          + Behavioral analysis of elderly people is performed using IoT
+            technologies to prevent cognitive impairment and frailty
+            issues.
+
+        *5. IoT technologies in Transportation and Low Carbon Products*
+
+        This section discusses the impact of IoT technologies on
+        logistics, including supply chain monitoring, inventory
+        management, and process automation.
+
+          + IoT technologies offer valuable support in increasing
+            visibility and control over the entire supply chain.
+          + The integration of IoT and predictive analysis systems helps
+            in creating effective business development strategies.
+          + The use of IoT in logistics allows for real-time tracking of
+            goods, promoting speed and efficiency in automated processes.
+          + IoT technologies enable smart location management systems
+            for monitoring driver activities and vehicle location.
+          + The combination of IoT and blockchain technology
+            revolutionizes logistics by ensuring product quality and
+            integrity.
+          + The IoT-supported business model in bike-sharing services
+            enhances sustainability and social aspects.
+          + Various studies propose innovative solutions using IoT and
+            RFID technologies for inventory management and order picking
+            processes.
+          + The next generation of blockchain systems aims to apply the
+            benefits of blockchain in IoT scenarios, such as logistics
+            and transportation.
+
+        *6. Concluding remarks and future directions in the field*
+
+        This review paper discusses the latest research findings
+        presented at JCELPRO VSI SpliTech2019, focusing on IoT
+        applications in various sectors.
+
+          + IoT technologies are rapidly developing, impacting various
+            economic sectors and societies.
+          + Energy sector sees significant progress in IoT
+            implementation, especially in smart homes and micro-grids.
+          + IoT plays a crucial role in healthcare systems, improving
+            patient monitoring and treatment.
+          + Transportation sector is transitioning towards electric and
+            autonomous vehicles with IoT support.
+          + Smart city concept benefits from IoT technologies in
+            addressing infrastructural challenges.
+          + Challenges include resource consumption, e-waste management,
+            and social impacts of IoT.
+          + Sustainable development of IoT products requires careful
+            monitoring and addressing of environmental impacts.
+          + Various studies and projects demonstrate the potential and
+            challenges of IoT applications across different sectors.
+
+        *Internet of Things (IoT): Opportunities, issues and challenges
+        towards a smart and sustainable future*
+
+        Sandro Nietić and team from Croatia, Spain, and Italy
+        collaborate on energy efficiency research. Contact details
+        provided for corresponding author.
+
+        *AUTHORS CREDIT STATEMENT*
+
+        Authors' contributions include conceptualization, methodology,
+        analysis, writing, supervision, and editing in the research.
+
+
+          Attachments
+
+      o Full Text
+      o Nižetić et al. - 2020 - Internet of Things (IoT) Opportunities,
+        issues an.pdf
+  *
+
+
+        Internet of Things: Boon or Bane?
+
+    Item Type 	Journal Article
+    Author 	Abhishek Upmanyu
+    Abstract 	Abstract: Internet of Things (IoT) shows up a practical
+    methodology to draw in the Smart Cities of what may be the eventual
+    fate of them. iNUIT (Internet of Things for Urban Innovation) is a
+    multi-year research program that means to make a biological system
+    that endeavours the assortment of information originating from
+    numerous sensors and associated articles introduced on the size of a
+    city, to address explicit issues as far as advancement of new
+    administrations (physical security, asset the board, and so forth.).
+    Among the different research exercises inside iNUIT, we present two
+    activities: SmartCrowd and OpEc. SmartCrowd goes for observing the
+    group's development during huge occasions. Internet of Things (IoT)
+    is a creation that connects to all the machinery in place and puts
+    them together so that we are satisfied as user. By executions of
+    information with devices, IoT has been broadly associated with
+    different fields, for instance, tech savvy homes, prospering,
+    security, medicinal associations, and centrality confirmation. The
+    necessity for solace and supportive life are especially basic in
+    sharp homes. As such, home automation is a champion among the most
+    essential and fundamental portions for the IoT-based keen home
+    development. Home robotisation structures are used to control home
+    gadgets or machinery in homes and give customized remote control
+    inside or outside homes. Keywords: IoT, sensors, actuators,
+    RASPBERRY PI, evolution, basics of IoT, analytics, data acquisition,
+    IOT advantage, disadvantage
+    Date 	2022-3-31
+    Short Title 	Internet of Things
+    Library Catalog 	DOI.org (Crossref)
+    URL
+    https://www.ijraset.com/best-journal/internet-of-things-boon-or-bane
+    Accessed 	9/4/2024, 10:01:54 PM
+    Volume 	10
+    Pages 	615-620
+    Publication 	International Journal for Research in Applied Science
+    and Engineering Technology
+    DOI 	10.22214/ijraset.2022.40701
+    <http://doi.org/10.22214/ijraset.2022.40701>
+    Issue 	3
+    Journal Abbr 	IJRASET
+    ISSN 	23219653
+    Date Added 	9/4/2024, 10:01:54 PM
+    Modified 	9/4/2024, 10:01:54 PM
+
+
+          Notes:
+
+      o
+
+        “II. EVOLUTION OF INTERNET In the good old days where we were
+        denied of web, the human correspondence was uniquely through
+        phones or mobiles. Sometimes communicating through landline
+        became a problem for us because in the early days first we were
+        to reserve a call with the operator. Then after hours or so, the
+        operator would fix whenever your call is possible to join with
+        the connector. Then comes the beginning of interne era, that
+        changed everything around us. With the help frequent involvement
+        of internet, sharing of information became quite easy as
+        compared to before. Regardless of any geographical locations,
+        information could be shared with anyone who is poles apart. Now
+        comes the life that carries both boon and bane of internet that
+        we are using today and that has made its space so much into our
+        life by just existing. Development of various website that
+        contains millions of texts to describe something. Myspace and
+        LinkedIn ended up conspicuous in the mid 2000s; YouTube won in
+        2005 making business open entryways for such countless people
+        out there. By 2006 come the two social networking sites that
+        changed the life of many people, Facebook and Twitter, these
+        systems administration locales helped individuals to think of
+        their feelings and thoughts of what they are managing in their
+        consistently to day life. It creates a platform where users
+        share their side of story and let whole world be aware and make
+        it more substantial by attaching pictures.” (Upmanyu, 2022, p. 615)
+
+      o
+
+        “X. CONCLUSION The study of Internet of Things clearly depicts
+        that “change is inevitable”, according to a survey, it shows
+        that there are 500 billion devices that are connected to 7.6
+        billion population till we reach 2020. As the population become
+        more and more used to IoT, there are 6.58 devices connected per
+        person. With any increase in advancement of technology, it comes
+        with various criticisms and controversy. But still with all its
+        applications that comes in handy, its trend will increase and so
+        will the application of IoT. Even when the masses do not know
+        about much about the working of IoT, IoT still will make its
+        place among the trending. In no time or soon enough we might
+        witness the application of IoT in every home like smart home. If
+        we see through a haste glance, there are many challenges
+        awaiting for IoT but it’s huge. There are so many branches that
+        are linked to IoT that it’s merely countless .IoT is applicable
+        in almost everything” (Upmanyu, 2022, p. 622)
+
+
+          Attachments
+
+      o Upmanyu - 2022 - Internet of Things Boon or Bane.pdf
+  *
+
+
+        Internet of Things: Energy boon or bane?
+
+    Item Type 	Journal Article
+    Author 	Eric Hittinger
+    Author 	Paulina Jaramillo
+    Abstract 	Networked digital devices may cause rising energy use,
+    although devices save energy locally , Since the dawn of the
+    internet, a digital revolution has transformed life for millions of
+    people. Digital files have replaced paper, email has replaced
+    letters, and cell phones provide access to many services that
+    facilitate daily life. This digital revolution is not over, and
+    there is now a growing deployment of technologies grouped under the
+    term “Internet of Things” (IoT)—a worldwide network of
+    interconnected objects that are uniquely addressable via standard
+    communication protocols ( 1 ). By 2020, there may be as many as 30
+    billion objects connected to the internet ( 2 ), all of which
+    require energy. These devices may yield direct energy savings ( 3 ,
+    4 ), but it is much less clear what their net effect on the broader
+    energy system will be. Scientists and regulators will need to work
+    together to ensure that the IoT's benefits do not come at the
+    expense of rising energy use.
+    Date 	2019-04-26
+    Language 	en
+    Short Title 	Internet of Things
+    Library Catalog 	DOI.org (Crossref)
+    URL 	https://www.science.org/doi/10.1126/science.aau8825
+    Accessed 	9/4/2024, 9:40:02 PM
+    Rights
+    http://www.sciencemag.org/about/science-licenses-journal-article-reuse
+    Volume 	364
+    Pages 	326-328
+    Publication 	Science
+    DOI 	10.1126/science.aau8825 <http://doi.org/10.1126/science.aau8825>
+    Issue 	6438
+    Journal Abbr 	Science
+    ISSN 	0036-8075, 1095-9203
+    Date Added 	9/4/2024, 9:40:02 PM
+    Modified 	9/4/2024, 9:40:02 PM
+
+
+          Notes:
+
+      o
+
+        The PDF titled "Internet of Things: Boon or Bane" discusses the
+        Internet of Things (IoT), its applications, advantages,
+        disadvantages, and future implications. Here’s a detailed
+        summary of its content:
+
+
+              Introduction
+
+        The document introduces the concept of IoT, emphasizing its role
+        in connecting devices and enabling communication between them.
+        It highlights the transformative potential of IoT across various
+        sectors.
+
+
+              Applications of IoT
+
+         1. *Consumer Applications*: IoT enhances daily life through
+            smart home devices, security systems, and energy-saving
+            technologies. It aims to improve convenience and efficiency
+            for users.
+         2. *Agriculture*: IoT applications in agriculture include
+            monitoring weather conditions, soil quality, and crop
+            health, which help farmers make informed decisions and
+            increase productivity.
+         3. *Construction and Home Automation*: The integration of IoT
+            in construction leads to energy-efficient buildings and
+            smart infrastructure, allowing for real-time monitoring and
+            management.
+
+
+              Advantages of IoT
+
+         1. *Efficiency and Time-Saving*: IoT enables machine-to-machine
+            communication, reducing the need for human intervention and
+            saving time.
+         2. *Cost Savings*: Early detection of faults in machinery can
+            prevent costly breakdowns, leading to better financial
+            management.
+         3. *Improved Quality of Life*: The convenience and efficiency
+            brought by IoT technologies contribute to a higher standard
+            of living.
+
+
+              Disadvantages of IoT
+
+         1. *Unemployment*: Automation and IoT technologies may lead to
+            job losses as machines replace human roles.
+         2. *Privacy Concerns*: The extensive data collection by IoT
+            devices raises concerns about data security and potential
+            misuse.
+         3. *Over-Reliance on Technology*: Increased dependence on IoT
+            could lead to diminished critical thinking and memory
+            skills, particularly among younger generations.
+
+
+              Future Scope and Challenges
+
+        The document discusses the potential for IoT to drive innovation
+        and economic growth. It highlights the development of smart
+        cities and connected infrastructure as key areas for future
+        investment. However, challenges such as data privacy, security,
+        and the need for robust connectivity remain significant hurdles.
+
+
+              Conclusion
+
+        The paper concludes that while IoT presents numerous benefits,
+        it also poses challenges that need to be addressed. The balance
+        between leveraging IoT for efficiency and managing its risks
+        will be crucial for its successful integration into society.
+
+
+              References
+
+        The document cites various sources, including the International
+        Journal for Research in Applied Science & Engineering
+        Technology, to support its claims and provide a foundation for
+        further research.
+
+        This summary encapsulates the key points discussed in the PDF,
+        providing a comprehensive overview of the Internet of Things and
+        its implications. If you need more specific details or insights
+        on a particular section, feel free to ask!
+
+
+          Attachments
+
+      o Hittinger and Jaramillo - 2019 - Internet of Things Energy boon
+        or bane.pdf
+  *
+
+
+        IoT-based enterprise resource planning: Challenges, open issues,
+        applications, architecture, and future research directions
+
+    Item Type 	Journal Article
+    Author 	Madjid Tavana
+    Author 	Vahid Hajipour
+    Author 	Shahrzad Oveisi
+    Date 	09/2020
+    Language 	en
+    Short Title 	IoT-based enterprise resource planning
+    Library Catalog 	DOI.org (Crossref)
+    URL 	https://linkinghub.elsevier.com/retrieve/pii/S2542660520300962
+    Accessed 	9/4/2024, 10:02:55 PM
+    Volume 	11
+    Pages 	100262
+    Publication 	Internet of Things
+    DOI 	10.1016/j.iot.2020.100262
+    <http://doi.org/10.1016/j.iot.2020.100262>
+    Journal Abbr 	Internet of Things
+    ISSN 	25426605
+    Date Added 	9/4/2024, 10:02:55 PM
+    Modified 	9/4/2024, 10:02:55 PM
+
+
+          Notes:
+
+      o
+
+        Generative Summary: The document is about IoT-based Enterprise
+        Resource Planning, discussing challenges, open issues,
+        applications, architecture, and future research directions.
+
+
+        *Introductory content*
+
+        This section discusses IoT-based Enterprise Resource Planning,
+        including challenges, applications, architecture, and future
+        research directions.
+
+          + The article on IoT-based Enterprise Resource Planning has
+            received 108 citations.
+          + The authors, Madjid Tavana, Vahid Hajipour, and Shahrzad
+            Oveisi, have a total of 502 publications and 15,537 citations.
+          + Madjid Tavana is affiliated with La Salle University and has
+            430 publications.
+          + Vahid Hajipour is affiliated with Islamic Azad University
+            West Tehran Branch and has 74 publications.
+          + Shahrzad Oveisi is affiliated with University of Tehran and
+            has 28 publications.
+          + The article has been read 2,453 times.
+
+        *Architecture, and Future Research Directions*
+
+        Contact details for experts in Business Analytics from La Salle
+        University, University of Paderborn, and Islamic Azad University.
+
+        *ACKNOWLEDGMENT*
+
+        In today’s competitive markets, ERP systems, including IoT, play
+        a crucial role. The study reviews IoT-based ERP challenges,
+        applications, and architecture. Results show IoT devices can
+        manage data in the cloud through ERP without human intervention.
+        The relationship between ERP and IoT is impacted by the
+        introduction of the cloud.
+
+        *1. Introduction*
+
+        This section discusses the integration of ERP and IoT,
+        challenges, opportunities, and future research directions.
+
+          + The annual economic impact of IoT in 2025 is projected to
+            range from 2.7 to 6.2 trillion dollars.
+          + IoT integration into ERP provides opportunities for better
+            management, automation, and product traceability.
+          + Challenges in integrating IoT into ERP include data security
+            concerns and lack of trust in new technology trends.
+          + ERP systems are well-established, with a single record
+            representing millions of dollars, making companies cautious
+            about adopting new technologies.
+          + The section reviews the history of ERP and IoT, technologies
+            and platforms in cloud ERP, and presents IoT architectures.
+
+        *2. History of ERP and IoT*
+
+        The section discusses the history and evolution of ERP systems,
+        including the introduction of IoT and the growth of technology
+        in ERP.
+
+          + IoT was introduced in 1999 by Kevin Ashton, as shown in
+            Table 1.
+          + ERP systems evolved from centralized computing systems in
+            the 1960s to integrated operations in the late 1980s and
+            early 1990s.
+          + Major historical events related to ERP are depicted in
+            Figure 2.
+          + Cloud ERP systems do not require local hardware installation
+            and are accessible through web applications.
+          + Changes in ERP implementation over time have led to
+            increased integration and communication among systems.
+          + The use of Internet technology in ERP has increased over the
+            years, reaching its peak in 2020.
+
+        *3. Cloud ERP: Technologies and platforms*
+
+        Cloud ERP technologies are increasingly popular, with
+        distributed, web-based, AI, and IoT technologies being utilized
+        more frequently. Platforms like SAP, Oracle, Microsoft, and IBM
+        are compatible with IoT, blockchain, AI, machine learning, and
+        big data technologies.
+
+        *4. Internet of things (IoT)*
+
+        The term IoT was coined by Kevin Ashton in 1999, popularized by
+        the Center for Automatic Identification. IoT enables data
+        transfer across objects, defined by ITU as having something
+        connectable at any time and place.
+
+        *4.1. Integration ERP and IoT*
+
+        This section discusses the integration of ERP and IoT,
+        highlighting benefits and challenges.
+
+          + The model integrates cloud ERP APIs and IoT devices for data
+            sharing and management.
+          + Benefits include automatic notifications for re-orders,
+            real-time data for instant solutions, and product protection
+            from theft.
+          + Challenges include managing the influx of data, adapting
+            business processes, and ensuring ERP compatibility with IoT.
+          + IoT enables tracking product quality, maintenance, and
+            customer interactions in real-time.
+          + IoT reduces human intervention in production processes,
+            improving efficiency.
+          + IoT allows for real-time tracing of products in the supply
+            chain, enhancing visibility and interdependencies.
+          + Overall, the integration of ERP and IoT offers opportunities
+            for automation, efficiency, and enhanced customer experiences.
+
+        *4.2. Analysis of published researches in IoT*
+
+        In a review of 140 articles from IEEE, ACM, and Elsevier
+        journals, a majority were from IEEE Access, ACM Transactions on
+        Internet, and Future Generation Computer System. The IoT field
+        is heavily represented in these databases.
+
+        *4.2.1. Taxonomy of IoT systems*
+
+        After analyzing papers, categories based on applications,
+        architectures, technologies, challenges were identified.
+
+        *4.2.1.1. IoT system architecture*
+
+        This section explains the architecture of IoT systems, including
+        layers, sensors, middleware, and data analytics.
+
+          + IoT networks consist of three layers: Application, Network,
+            and Perception.
+          + Smart parking example illustrates how IoT devices work with
+            sensors and microcontrollers.
+          + IoT sensors are resource-limited, working with low-power
+            sources in a noisy environment.
+          + Various communication technologies are used in IoT, such as
+            6LoWPAN, Bluetooth, and WiFi.
+          + Middleware plays a crucial role in enabling interoperability
+            and scalability among IoT devices.
+          + Middleware also addresses IoT security, privacy, device
+            discovery, and environmental awareness.
+          + Big data generated by IoT devices must be analyzed online
+            for useful knowledge.
+          + Machine learning and deep learning are used to extract
+            valuable insights from big data in IoT applications.
+
+        *4.2.1.2. Applications of IoT in ERP systems*
+
+        The section discusses the applications of IoT in smart cities,
+        healthcare, and security, highlighting the benefits and
+        integration with ERP systems.
+
+          + Smart cities address complex urban challenges through IoT
+            applications like road management and smart agriculture.
+          + Healthcare sector utilizes IoT devices for patient
+            monitoring, with IoMT devices expected to reach 20-30
+            billion by 2020.
+          + ERP systems play a crucial role in healthcare by integrating
+            processes and improving services.
+          + IoT monitoring optimizes performance, analyzes data, and
+            enhances customer experience.
+          + Machine learning enables human presence detection and
+            activity monitoring for home automation.
+          + Smart grid technology helps manage energy production costs
+            and control electrical devices.
+          + ERP systems in utility companies offer strategic insights
+            for managing big data and achieving financial transformation.
+          + The section emphasizes the importance of integrating IoT,
+            ERP, and smart grid technologies for efficient urban
+            development.
+
+        *4.2.1.3. Relation with other technologies*
+
+        This section discusses challenges in integrating Cloud ERP with
+        IoT technologies.
+
+          + Machine learning and deep learning technologies are most
+            synergistic with IoT in reviewed papers.
+          + DL and IoT were among the top three strategic technology
+            trends in 2017.
+          + DL models improve accuracy and reduce the need for manual
+            feature sets.
+          + Various modern analytical and AI approaches are demanded by
+            IoT systems.
+          + IoT generates big data, which is valuable for analysis and
+            process improvement.
+          + Challenges in cloud ERP-IoT integration include
+            heterogeneity, functionality, and security.
+          + Issues related to performance, large scale, big data, sensor
+            networks, monitoring, and fog computing are discussed.
+          + Open issues include lack of standards, data management
+            challenges, and security concerns.
+
+        *5. Conclusions and future research directions:*
+
+        The section discusses the impact of IoT on cloud ERP, including
+        history, technologies, challenges, and future research directions.
+
+          + Organizations' awareness of changes in ERP plays a
+            significant role in customer satisfaction.
+          + Cloud ERP integrated with IoT promises more fulfilling
+            management and customer services.
+          + Research is needed in areas such as object identification,
+            environmental change detection, and network scalability.
+          + Efficient mechanisms for cloud-based IoT applications are
+            essential for creating logical network partitions.
+          + Convergence towards a common open-service infrastructure
+            environment will provide new business opportunities.
+
+        *Figure 2. Cloud ERP, technologies, and platforms*
+
+        An in-depth exploration of IoT systems, cloud ERP, machine
+        learning methods, and their applications in various domains.
+
+          + The text discusses the history of ERP systems, starting from
+            reorder point systems in the 1960s to the emergence of IoT
+            in 1999.
+          + Advantages and disadvantages of cloud ERP versus on-premise
+            ERP systems are compared, highlighting cost, security,
+            customization, and implementation factors.
+          + Various machine learning and deep learning methods for
+            IoT-based ERP systems are presented, including Decision
+            Tree, Support Vector Machine, Naïve Bayes, and Convolutional
+            Neural Networks.
+          + The text provides a taxonomy of IoT systems, categorizing
+            them based on collaboration, business objectives,
+            applications, big data analytics, middleware, connectivity,
+            and physical objects.
+          + Different IoT applications are discussed, such as smart
+            grid, healthcare, smart monitoring, smart home, smart
+            contract, smart city, wearable devices, security, energy,
+            and more.
+          + A comprehensive review of IoT-related articles and papers is
+            presented, covering topics like blockchain, machine
+            learning, security, big data analytics, and smart healthcare.
+          + The integration of IoT and cloud computing is explored,
+            focusing on security issues, challenges, and future research
+            directions.
+          + Various IoT review articles, IoT applications, machine
+            learning methods, and deep learning methods are analyzed and
+            compared for their advantages, disadvantages, and
+            applications in IoT-based ERP systems.
+      o
+
+        Paper Content: IoT-based Enterprise Resource Planning:
+        Challenges, Open Issues, Applications, Architecture, and Future
+        Research Directions
+
+        Madjid Tavanaa,b,*
+
+        aBusiness Systems and Analytics Department
+
+        Distinguished Chair of Business Analytics
+
+        La Salle University, Philadelphia, USA
+
+        E-mail: tavana@lasalle.edu
+
+        Web: http://tavana.us/
+
+        bBusiness Information Systems Department
+
+        Faculty of Business Administration and Economics
+
+        University of Paderborn, Paderborn, Germany
+
+        Vahid Hajipourc,d
+
+        cDepartment of Industrial Engineering
+
+        Islamic Azad University
+
+        West Tehran Branch, Tehran, Iran
+
+        E-mail: hajipour.v@wtiau.ac.ir
+
+        dResearch Center, FANAP Co., Tehran, Iran
+
+        Shahrzad Oveisie
+
+        eResearch Center, FANAP Co., Tehran, Iran
+
+        E-mail: sh.oveisi@fanap.ir
+
+        DECLARATION OF INTEREST
+
+        None
+
+        ACKNOWLEDGMENT
+
+        The authors would like to thank the anonymous reviewers and the
+        editor for their insightful comments and suggestions. Dr. Madjid
+        Tavana is grateful for the partial support he received from the
+        Czech Science Foundation (GAˇCR19-13946S) for this research, and
+        Dr. Vahid Hajipour would like to acknowledge the support he
+        received from the Research Center at FANAP Co.
+
+        ____________________________
+
+        *Corresponding author at: Business Systems and Analytics
+        Department, Distinguished Chair of Business Analytics, La Salle
+        University, Philadelphia, PA 19141, United States. Tel.: +1 215
+        951 1129.
+
+        1
+
+        IoT-based Enterprise Resource Planning: Challenges, Open Issues,
+        Applications, Architecture, and Future Research Directions
+
+        Abstract
+
+        In today’s highly competitive markets, organizations can create
+        a competitive advantage through the successful implementation of
+        Enterprise Resource Planning (ERP) systems. ERP works with
+        different technologies, including the Internet of Things (IoT).
+        IoT uses a unique Internet protocol to identify, control, and
+        transfer data to individuals as well as databases. The data is
+        collected through IoT, stored on the cloud, and extracted and
+        managed in through ERP. In this study, we review the challenges,
+        open issues, applications, and architecture of the IoT-based
+        ERP. For this purpose, we review and analyze the latest
+        IoT-related articles to present the unique features of the IoT
+        and discuss its impact on ERP. The results show sensors and
+        devices connected to the Internet can manage the stored data
+        processed in the cloud through ERP without human intervention.
+        We also discuss the challenges and opportunities in the
+        relationship between ERP and the IoT risen by the introduction
+        of the cloud.
+
+        Keywords: Internet of things; enterprise resource planning;
+        cloud computing.
+
+        2
+
+        1. Introduction
+
+        Companies in various industries collect different types of data,
+        including invoices, customer information, project schedules,
+        shipping, and payment information, among others (Rashid, 2002).
+        Enterprise Resource Planning (ERP) plays a critical role in
+        streamlining processes and improving business operations across
+        industries (Mahmud, 2017). Today, the Internet of Things (IoT)
+        and massive data influxes are stirring up the ERP landscape,
+        introducing new possibilities for operational excellence and
+        workflow automation (Snellman, 2017; Bahssas et al., 2015). IoT
+        is evolving rapidly, and according to McKinsey’s report on the
+        global economic effect of IoT, the annual economic impact of IoT
+        in 2025 will range from 2.7 to 6.2 trillion dollars (Andročec et
+        al., 2018; Sha et al., 2019). However, in the midst of the
+        excitement for increasing connectivity in manufacturing, the
+        impact of IoT has on ERP systems, and business processes should
+        not be overlooked (Balampanis et al., 2016).
+
+        Every system component in the IoT has an IP address, which
+        enables the computers to identify, control, transfer data to
+        other individuals, and related databases (Siddiqui et al., 2019;
+        Siegemund and Turau, 2018). The collected data, stored in the
+        cloud, enables ERP to manage, control, and process the data.
+        Overall, the integration of ERP into IoT provides a great number
+        of opportunities, the most important of which includes better
+        management, automation, product traceability, and reduce ERP
+        implementation costs (Zadeh et al., 2018). IoT creates a
+        connection between the product and the customer by reducing
+        human intervention and promoting automation using sensors.
+        However, the integration of IoT into ERP faces a lot of
+        challenges, and the biggest challenge is the lack of trust in
+        IoT as a relatively new technology trend. Data security is a top
+        concern, and companies heavily investing in ERP are very wary of
+        the accuracy and reliability of the data coming from an IoT
+        system (Sha et al., 2019; Stergiou et al., 2018). After almost
+        three decades since their introduction, ERP systems are so
+        well-oiled that a single record could represent a few million
+        dollars. It is simply risky to trust new technology, and in a
+        large-scale ERP implementation, nobody wants to save money
+        unless it is millions of dollars (Snellman, 2017; Elmonem, 2016;
+        Lenart, 2011).
+
+        In this study, we review the challenges, open issues,
+        applications, and ERP-based IoT architectures. The latest
+        journal papers at the intersection of ERP and IoT are reviewed
+        and analyzed. We further demonstrate the relationship between
+        ERP with cloud-based services. In Section 2, we present a brief
+        history of ERP and IoT. In Section 3, we present the technologies
+
+        3
+
+        and platforms in cloud ERP. In Section 4, we present the IoT,
+        and in Section 5, we present our conclusions and future research
+        directions:
+
+        2. History of ERP and IoT
+
+        Demonstrating a history of ERP systems, Table 1 shows that IoT
+        was introduced in 1999 by Kevin Ashton (Alam et al., 2017). The
+        growth of technology in ERP is also shown in Figure 1. As can be
+        seen in Figure 1, the use of Internet technology in ERP has
+        increased from 2000 with the use of the Internet and extranet
+        technology (Sumner, 2014). Insert Figure 1 and Table 1 Here
+
+        The evolution of ERP systems came just after the development of
+        hardware and software systems. During the 1960s, most
+        organizations designed, developed, and implemented centralized
+        computing systems, most of which automated warehouse inventory
+        control systems using inventory control (IC) packages. Essential
+        Requirements Planning (ERP) systems were developed in the 1970s.
+        In these systems, sectoral or product requirements planning is
+        based on a comprehensive production plan. New software programs,
+        such as product resource planning (MRP II), were introduced,
+        focusing on the synchronization of the production process with
+        the production requirements to optimize the production
+        processes. Systems with ERP systems technologies first appeared
+        in the late 1980s and early 1990s and had the power to
+        coordinate and integrate operations throughout the company.
+        Using MRP technology, ERP systems achieve the integration
+        between business processes such as manufacturing, distribution,
+        accounting, finance, human resources, project management,
+        Inventory management, maintenance, and Logistics. This
+        integration also creates accessibility and visibility, as well
+        as unity throughout the company.
+
+        Developments in ERP include planning and scheduling (APS),
+        Internet business solutions, including customer relationship
+        management (CRM), and supply chain management (SCM). Figure 2
+        shows the major historical events related to ERP. During this
+        decade, ERP has been associated with mainframe and mini and
+        macro computer technologies, as well as data warehousing, data
+        mining, knowledge management, and client-server networks with a
+        distributed database and knowledge management. The first decade
+        of the 20th century also saw ERP working with low-end IoT
+        technologies, mainframes, client-server systems, distributed
+        computing, Internet technology, and knowledge management. Today,
+        there are many different systems on the market, most of which
+        are migrating outside the cloud. Insert Figure 2 Here
+
+        4
+
+        The company’s hardware provides the bases for the local
+        installation of the conventional on-site ERP systems, while
+        cloud ERP does not require such hardware. In other words, it is
+        considered to be a service that works through providers and
+        programs and is accessible through web applications. Each
+        company can choose from a range of various ERP systems to
+        deploy, and of course, the choice depends on a number of factors
+        such as the data storage location as well as software hosting.
+        The changes made to ERP implementation over time led to changes
+        in the way the companies use ERP. Initially, the systems were
+        small and not very functional, and they were developed to
+        perform a specific task. So companies have no choice but to
+        install and use various systems to perform all the tasks and
+        provide management that a company needs. In many cases, the
+        existence of small systems is indicative of the fact that there
+        will be a lot of integration and communication among these
+        systems. It also means that there is a lot of traffic coming
+        through the network, and there are more risks involved, that is
+        caused, ERP works with Internet technologies, mobile wireless,
+        artificial intelligence, grid computing, knowledge management,
+        web service architecture over the years and decades.As can be
+        seen in Figure 1, the use of Internet technology in ERP has
+        increased from 2000 with the use of the Internet and Extranet
+        technology, which will reach its peak in 2020.
+
+        3. Cloud ERP: Technologies and platforms
+
+        This section will discuss cloud ERP technologies and platforms.
+        First, the advantages and disadvantages of cloud ERP versus
+        on-premise ERP are discussed in Table 2; then, different cloud
+        ERP vendors are introduced, and ERP technology explored(Monk and
+        Wagner, 2012; Rashid et al., 2002). Insert Table 2 Here
+
+        As can be seen in Figure 1, distributed, web-based, artificial
+        intelligence and other technologies have been more frequently
+        used in recent years. Therefore, this report highlights five IoT
+        technologies, namely blockchain, artificial intelligence,
+        machine learning, and big data. The following will explore what
+        platforms can work with these technologies. As shown in Figure
+        2, the platforms that can work with IoT include SAP, Oracle,
+        Microsoft, Epicor, Sage, Netsuite, and People Soft.
+
+        The platforms that can work with blockchain technology include
+        SAP, Oracle, Microsoft Azure, and IBM. SAP, Oracle, Microsoft
+        Azure, and IBM are the technologies that can work with machine
+        learning technology and artificial intelligence. Finally, the
+        platforms capable of working
+
+        5
+
+        with big data technology are SAP, Oracle, and Microsoft Azure
+        (Snellman, 2017).
+
+        4. Internet of things (IoT)
+
+        The term Internet of Things (IoT) was coined by Kevin Ashton in
+        1999. He described a world where everything had a digital
+        identity for itself and enabled computers to organize and manage
+        things. For Kevin Ashton, “IoT” is a tool to overcome the
+        domination of time and place. This view was first popularized by
+        the Center for Automatic Identification and relevant market
+        analysis publications(Mohammadi et al., 2018). RFID is
+        considered as a prerequisite for this technology. From another
+        perspective, the IoT is an environment where everything, whether
+        human, animal or inanimate, possesses a unique Internet Protocol
+        (IP) that has the ability to detect, control, send and transfer
+        data to others and their respective databases. The data
+        collected from objects will be visible through different tools
+        such as mobile phones and a variety of computers and tablets.
+        When IoT is implemented, data can be transferred across several
+        objects. IoT is a function of the convergence and evolution of
+        the three elements: Internet, wireless technology, and
+        microelectromechanical systems. International Telecommunication
+        Union defines IoT as follows: at any time and place, we will
+        have something to which anyone can connect (Barcelo et al., 2016).
+
+        4.1. Integration ERP and IoT
+
+        Since the semantic web is considered to be an effective method
+        for achieving the integration among systems, a model for
+        integrating ERP and IoT is introduced here. Model of integration
+        of cloud ERP APIs and things as a service (Darko Andročec et
+        al., 2018). As shown in Figure 3, the IoT includes sensors,
+        actuators, and applications (on mobile or Windows). Accordingly,
+        the sensors collect data based on the actuator’s act. This
+        information provides a common framework that allows data to be
+        shared and connected to the cloud through the Semantic Web. The
+        data is also linked to the IoT application via the cloud. ERP
+        also manages and controls data through the cloud. The
+        integration of IoT and ERP has many benefits, including the
+        following:
+
+        1. Events such as re-orders, replenishment, out of stock
+        inventories and missed deliveries could be informed
+        automatically through sensors and devices connected to the internet.
+
+        2. IoT makes it possible to send notifications and warning to
+        the manufacturers informing them that, for example, some of
+        their products require their attention or some machines are
+        down. Nevertheless, such a functionality is provided only when
+        the business processes are adapted to this new model and be
+        responsive to it.
+
+        3. IoT provides a considerable amount of data that needs to be
+        gathered, processed, and analyzed
+
+        6
+
+        appropriately to gain the maximum benefits from IoT ERP. The
+        robustness of this software program, however, is a genuine
+        concern. IoT ERP is expected to deal with the massive influx of
+        data from different devices and products. Thus, a lot of
+        pre-preparation is demanded of the manufacturing companies while
+        they need to take into account the size of their current ERP
+        program and whether it is capable of connecting to IoT.
+
+        4. Real-time information is a prerequisite for an instant
+        solution. The integration of ERP and IoT paves the way for
+        real-time data and immediate solutions at the same time; this is
+        possible through ERP, which provides a clear understanding of
+        the situation while IoT offers the potential solutions. In fact,
+        IoT will create junk information that can be extracted through
+        ERP in an attempt to improve the business.
+
+        5. Through the sensors, this integrated system is able to
+        protect company products from theft. It does this through an
+        alert message such that if the package is manipulated before it
+        gets to the destination, an alert message or an email is sent to
+        the registered number or email address of the customer.
+
+        6. As for special or sensitive products whose maintenance
+        demands special circumstances such as specific temperature or
+        pressure, some IoT solutions safeguard these kinds of products
+        against the environmental risks and keep the quality the same
+        during the shipment.
+
+        7. According to the traditional methods, the manufacturer could
+        only check on the quality of a product that has been shipped to
+        the destination only through some primitive techniques such as
+        customer service calls or field visits. However, the advent of
+        technologies such as IoT makes it possible for the customer to
+        trace the product's status and find out about its use, behavior,
+        wear, and tear. Even some powerful IoT devices demand to replace
+        their parts after they detect wear and tear.
+
+        8. There are two cases for selling the products: first, when the
+        product is sold directly to the customer and second, when the
+        product is sold through dealers. Of course, adopting the second
+        approach poses a challenge to the ERP system in terms of keeping
+        track of the end-users’ data. However, by enabling the products
+        to communicate with their customer immediately after they are
+        initiated, IoT resolves this problem.
+
+        9. The automatic scan and entry of the barcode data are achieved
+        through IoT in real-time. In other words, IoT reduces human
+        intervention to a minimum through the sensors embedded inside
+        the machines leading to improved production efficiency.
+
+        7
+
+        10. In a supply chain, IoT allows tracing the products or
+        equipment as they are transferred from one stage to the next,
+        and as a result, it provides real-time information.
+        Subsequently, the real-time data is fed into the ERP system
+        providing all those who are engaged with the supply chain with
+        the feature which enables them to track the interdependencies
+        between product life cycle and the material flow on the other
+        hand. Insert Figure 3
+
+        4.2. Analysis of published researches in IoT
+
+        As we have seen, IoT is one of the key technologies working with
+        ERP. In analysis review sections, according to our investigation
+        on the IoT field, 140 articles were randomly selected from
+        recent IEEE, ACM, and Elsevier journals from IEEE Explore, ACM
+        Digital library, Arvix repository, and Elsevier. By reviewing
+        these papers, the journals in this field in our database are
+        shown in Figure 4. As shown in this figure, a majority of
+        articles in our database are derived from the IEEE database,
+        IEEE Access, ACM database, ACM Transactions on Internet journal,
+        and Future Generation Computer System from Elsevier database.
+        The IoT review articles are shown in Table 3. Insert Figure 4
+        and Table 3 Here
+
+        4.2.1. Taxonomy of IoT systems
+
+        After analyzing the papers, the following categories were
+        identified based on applications, architectures, technologies,
+        challenges, and topics to be discussed in the future, which are
+        shown in Figure 5 and will be discussed in more detail below.
+        Insert Figure 5 Here
+
+        4.2.1.1. IoT system architecture This section briefly describes
+        the architecture of IoT systems. As can be seen in Figure 6, IoT
+        networks include three layers, namely Application, Network, and
+        Perception. Figure 6 shows the detailed architecture of IoT
+        (Yang et al.,2011; Frustaci, 2017; Fang et al., 2014). The
+        following example illustrates how IoT works. Smart parking,
+        including sensors and microcontrollers, is located in each
+        parking place. The user receives a live update about the
+        availability of all parking places and chooses the best one. The
+        ultrasonic sensors are used to relay information and display the
+        available parking places in a web application. The IoT device
+        consists of an ESP8266 microcontroller and an HC-SR04 distance
+        measurement sensor. The sensor periodically measures the
+        distance and transmits this data to the microcontroller, which
+        is connected to AWS IoT service
+
+        8
+
+        via the MQTT protocol. Periodically, the device sends
+        measurements to the cloud where they are stored in AWS IoT
+        shadow as a sensor state. A sensor detects a parked car by
+        measuring the distance to the nearest obstacle. We used this
+        example in parts a,b and c. Insert Figure 6 Here
+
+        a) Physical layer
+
+        The physical object surface is involved with physical IoT
+        sensors. The physical object is mainly involved with sensing,
+        collecting, and sometimes processing information. At this level,
+        diverse sensing functionalities are implemented through adapting
+        sensors and actuators such as temperature, motion, or
+        acceleration sensors. In the smart parking example, the
+        ultrasonic sensors are in the physical layer.
+
+        b) Connectivity
+
+        One of the main goals of the IoT platform, communicate
+        Heterogeneous sensors cooperatively, and subsequently provide
+        smart services. Since the sensors deployed in IoT use battery
+        for their power and their computation as well as storage
+        capacity are limited, they are considered resource-limited.
+        Therefore, IoT sensors should work with low-power sources under
+        a lossy and noisy communication environment. Recent IoT
+        communication technologies: 6LoWPAN, Bluetooth, IEEE 802.15.4,
+        WiFi, ultra-wide bandwidth, RFID, and near-field communication.
+        In the smart parking example, the AWS IoT core is the service
+        that manages the connection with the cloud.
+
+        c) Middleware
+
+        Middleware aims at demonstrating the complexity of a hardware
+        system, and of course, this means more concentration on the
+        problems by the developers without being disturbed at the
+        hardware level. Several interfaces can be used to connect us to
+        sensors and other objects, including Bluetooth, WI-Fi, RFID, and
+        NFC. In a smart parking example, the AWS IoT Platform is middleware.
+
+        d) Hardware-level
+
+        Hardware complications are usually caused by related to
+        communication and computation issues. A software level is
+        provided across operating systems, applications as well as the
+        network communication levels by the middleware, enabling
+        cooperative processing. From a computational standpoint, a
+        middleware provides a level that sits between application and
+        system software and has the following main functions. First, it
+        allows for collaboration between heterogeneous IoT objects so
+        that diverse IoT classes communicate with each other without
+        interruptions through the
+
+        9
+
+        middleware. Actually, the middleware plays a significant role in
+        enabling the interoperability among IoT devices. The second
+        major role played by the middleware concerns the devices, which
+        are potential for interaction within the IoT domain. In fact, it
+        provides these devices with scalability.
+
+        The evolution of IoT devices is expected to be the outcome of
+        middleware through critical reforms being made when scaling up
+        the organization. The third role is the device discovery and
+        environmental awareness, which has to be provided by middleware
+        to support object knowledge of other surrounding IoT objects.
+        Middleware is also in charge of providing the type of computing
+        that is environmentally conscious so that the sensors' data
+        become understandable, which can be employed to provide context
+        and present intelligent services to users. Finally, in another
+        role, the middleware addresses IoT security as well as its
+        privacy, and that is because of human or industry involvement
+        with the data presented by IoT. In other words, it is essential
+        to take into account the sensitive issues of security and
+        privacy; moreover, the firmware is expected to consider
+        mechanisms to create a secure IoT system (Al-Garadi et al.,
+        2018; Saheb and Izadi, 2019).
+
+        e. Big data analytics
+
+        The noticeable amount of data captured by IoT is highly
+        valuable. Several physical objects existing in the different IoT
+        applications are in charge of creating such big data. Thus, the
+        large amount of data generated by the physical devices must be
+        analyzed online to acquire useful knowledge. The timing of
+        knowledge acquiring is useful. According to researchers, there
+        are various ways to integrate big data analytics with IoT design
+        so that this data becomes understandable. ML and DL go beyond
+        the traditional analytic methods; in fact, they are capable of
+        absorbing the invisible insight of big data and transforming it
+        into useful data with a minimal human contribution (Al-Garadi et
+        al., 2018).
+
+        4.2.1.2. Applications of IoT in ERP systems
+
+        IoT has several applications. The analysis of articles available
+        in our database identified the applications of IoT shown in
+        Figure7 and Table 4 along with the articles in our database
+        (Smart grid, health care, monitoring, smart home, security,
+        wearable devices, smart city, and energy). The most common
+        applications of IoT were in Smart City (road management, smart
+        agriculture, smart transportation, smart parking, and smart
+        university), health care, and security. Insert Figure 7 and
+        Table 4 Here
+
+        a) Smart city
+
+        10
+
+        Cities inherently face complex, widespread, and interconnected
+        challenges that can only be solved using a systematic approach.
+        In other words, the massive crowding of residents leads to
+        chaos, creating conditions that not only bring down the
+        equilibrium of cities but prevent sustainability with current
+        methods of urban management and development. Therefore, urban
+        planners all over the world try to develop models of
+        21st-century urban development, satisfying the new demands and
+        expectations of today’s world with an integrated view for all
+        aspects of urbanization. The development of a smart city is a
+        new concept to address the current challenges of cities in the
+        field of urban planning, which has attracted a lot of attention
+        in recent years. A smart city has been the focus of the
+        millennium transformation and development, which means opening
+        new concepts in urban planning that combine the capabilities of
+        real and virtual worlds to solve urban problems (Marjani et al.,
+        2017).
+
+        The ERP systems govern rules for purchasing, inventory usage,
+        permitting, and billing. The city finance department tracks all
+        public expenditures and incoming payments via the ERP system.
+        Public works and city engineering utilize the work order system
+        within the ERP system to respond to city building issues or
+        infrastructure issues reported by citizens or identified by the
+        real-time event management and analytics system.
+
+        Planning, permitting, and inspections use geographical
+        information systems (GIS) to manage the planning process for
+        land usage throughout the city. The permitting process utilized
+        with the ERP system allows permits to be requested online, and
+        then the citizen or business can track the permit and inspection
+        process as it is completed.Permits are issued online via the ERP
+        permitting web portal. The permit process includes inspections
+        of retention ponds throughout the city. The sensor network IoT
+        will be utilized to provide water quality information and
+        foliage growth data (Siegemund and Turau, 2018).
+
+        b) Smart health care
+
+        The IoT devices have become the heart of key health applications
+        recently, having received a boost from the healthcare sector.
+        Monitoring the health status of the patients, recording their
+        information, notifying the related healthcare system of the
+        critical circumstances, and subsequently facilitating the
+        process of treatment for the patient in a timely manner is,
+        among others, the significant roles of IoT devices in the
+        healthcare systems. With almost 60% of the healthcare sector has
+        implemented the Internet of medical things (IoMT) devices, the
+        IoMT is believed to be leading to a revolution in the domain by
+        turning disorganized healthcare into a synchronized one. IoT devices
+
+        11
+
+        made almost 30.3% of 4.5 billion IoT devices in 2015; however,
+        the statistic had been predicted to rise to 20-30 billion by
+        2020 (Afzal et al., 2017; Marjani et al., 2017; Baker et al., 2017).
+
+        ERP, on the other hand, plays a major role in the healthcare
+        sector by achieving an effective integration among the processes
+        and the services.ERP would make a big difference in areas such
+        as finance, human resources, and revenue and admission resources
+        of the healthcare sector if it were implemented successfully.
+        Services such as diagnosis, patient’s home care, and chronic
+        care are provided by the healthcare system through the
+        information they receive from various sources. Needless to say,
+        these various sources and processes will be much more helpful
+        for the healthcare system if they are integrated because
+        integration allows for more information sharing while the
+        traditional models are based on segregated processes and thus
+        less information sharing. So by achieving integration across
+        various systems in different locations and having access to
+        them, ERP smoothes the healthcare processes, improve the quality
+        of their services, and help the health fraternity to be more
+        efficient in their jobs. Implementing ERP in a hospital is
+        particularly beneficial for the front desk as well as the
+        financial management sections.ERP provides the front-desk staff
+        with the information they require, such as appointment, bed
+        availability, specialized services, and the doctors’ schedules
+        leading to the organized and effective performance of the front
+        desk. The financial management also benefits from ERP because it
+        offers solutions to cut costs, produce more comprehensive
+        managerial reports, and reduce risks.
+
+        c) Smart monitoring IoT monitoring has many advantages, some of
+        which are listed below:  It helps in analyzing the dynamic
+        systems and processing a large number of events and alerts.  It
+        also gathers and analyzes IoT data from connected devices and
+        applications and thus create integration between the devices and
+        business.  It optimizes the performance across multiple
+        applications, APIs, networks, and protocols and thus bridges the
+        performance gaps  It provides you with feasible insights to
+        create a better customer experience, mitigate the problems, and
+        increase the IoT opportunities.
+
+        d) Smart home
+
+        Human presence detection, activity detection, self-organizing
+        appliances, air conditioning control based on user desire and
+        convenience, etc. are made possible by machine learning. In
+        particular, the detection of activity due to its use in life
+        support, home automation, etc., has received much
+
+        12
+
+        attention (Samie et al., 2019). For example, information
+        regarding energy status, including its availability and price
+        now or in the future, is provided by energy sources such as
+        photovoltaic appliances and power suppliers. This information is
+        used by devices which are considered the subscriber in an
+        attempt to modify their patterns.
+
+        e) Smart grid and smart meter Smart grid deals with effective
+        ways to effectively manage and control energy production costs
+        and save energy, which proves to be more reliable in achieving
+        these goals than the conventional grid. Moreover, smart meters
+        as modern energy meter makes power consumption measurable and
+        help to monitor and control electrical devices.
+
+        The smart grid, which is a flexible system connecting people
+        with technology and natural systems, can be defined from
+        functional or technological perspectives. It includes an
+        electric grid, a communications network, and controlling and
+        monitoring hardware and software and is capable of providing
+        power, reducing costs, and presenting instant information. For
+        example, the digital electricity grid which gathers and pass
+        information, and creates electricity using the bilateral
+        technical direction (Marjani et al., 2017).
+
+        In relation to the smart grid and the onslaught of big data,
+        financial transformation is achieved as a result of the demands
+        of business transformation. Since utility companies are
+        encouraging industry-changing advancements of this type, ERP
+        systems strive to offer strategic insights for the better
+        management and application of the gathered data.
+
+        4.2.1.3. Relation with other technologies
+
+        Another issue discussed in papers is the relationship of IoT
+        with other technologies. As can be seen in Figure 8, machine
+        learning and deep learning technologies make the most use of and
+        have synergy with IoT technology in reviewed papers. To this
+        end, we also examined a variety of methods used in this field
+        among the articles, the results of which are shown in Figure 8.
+        Insert Figure 8 Here
+
+        a) Machine learning and deep learning methods in IoT
+
+        Recently, a lot of IoT-based applications have emerged in
+        various vertical fields, namely health, transportation, smart
+        home, smart city, agriculture, education and so forth most of
+        which are based on intelligent learning mechanism for prediction
+        (i.e., regression, classification, and clustering), data mining,
+        and pattern recognition of data analysis in general. Recently,
+        deep learning (DP) has been employed in IoT applications more
+        than other machine learning approaches. According to
+
+        13
+
+        an announcement made at the Gartner/ITxpo 2016 Symposium, DL and
+        IoTwere among the top three strategic technology trends in 2017.
+        This widespread advertising for DL points out the fact that the
+        traditional machine learning approaches do not meet the newly
+        identified analytical needs in the field of IoT. In other words,
+        according to the hierarchy of IoT data generation and
+        management, various modern analytical and artificial
+        intelligence (AI) approaches are what IoT systems demand. The
+        growing interest in IoT and the big data, which have a
+        reciprocal relationship, demands shareholders who clearly
+        understand its definition, components, potentials, and
+        challenges. On the one hand, IoT is the major generator of big
+        data, and on the other hand, IoT services are an essential
+        target for analyzing big data to improve processes. In addition,
+        big IoT data analysis has proven to be valuable to the
+        community. For example, it was reported that identifying the
+        damage to pipes and fixing them saved nearly one millionUS$ in
+        the water bills of Miami Park Administration (Al-Garadi et al.,
+        2018). DL models generally bring about two important advances
+        relative to traditional machine learning approaches in training
+        and prediction stages. Firstly, they reduce the need for manual,
+        human-made, and engineered feature sets for use in education. As
+        a result, some features that may not be apparent for men are
+        easily extractable by DL models. Moreover, DL models improve
+        accuracy. Neural networks and deep learning methods are
+        generally used in ERP-based IoT systems for the following cases:
+
+         Advanced analytics
+
+        Machine learning and deep learning methods allow for handling a
+        large amount of data paving the way for real-time and accurate
+        data insights. As an example, we refer to AI for analyzing
+        different types of customers’ buying behavior, providing one
+        with the opportunity to adapt products or services to the needs
+        of a specific audience.
+
+         Warehouse management
+
+        There are a large number of demand forecasting models which can
+        be tested accurately using machine learning and deep learning
+        methods to adapt various kinds of variables such as change in
+        demand, supply chain disruptions as well as new product
+        introduction.BMW, for example, traces an item from the time it
+        is being manufactured until the moment it’s sold using learning
+        algorithms while monitoring 31 assembly lines in different
+        countries.
+
+         Forecasting
+
+        Machine learning and deep learning methods help find solutions
+        that are capable of processing historical data and predicting
+        the future. In the business world, these methods help identify
+
+        14
+
+        seasonal patterns and provide suggestions regarding the
+        production volume.These forecasting methods provide the business
+        world with more accurate predictions in a more cost-effective
+        way and thus help avoid overproduction or underproduction by
+        guiding through the decisions regarding the manufacturing volume.
+
+         Financial management
+
+        Machine learning and deep learning methods allow the automation
+        of quarterly and monthly processes and the closure of operations
+        after the accuracy reports are verified, and the account
+        balances are compared. Invoice data can be categorized into
+        different accounts using these methods, enabling us to
+        differentiate between a phone purchase and a monthly phone bill.
+
+         Interdepartmental processes
+
+        It is complicated to integrate sales, inventory, and accounting.
+        However, Artificial Intelligence is not afraid of massive
+        amounts and various types of data, making it the perfect
+        solution for creating a centralized platform.
+
+         Customer service
+
+        In the case of field services, these methods provide users with
+        the information regarding performance evaluations and the
+        qualification of the employees so that the planning is
+        facilitated and the service calls are scheduled.
+
+         Production processes
+
+        In case of integration with ERP these methods, help to identify
+        the inefficient processes and offer a solution to reduce costs.
+        Moreover, these methods help to detect energy-consuming
+        processes and facilitate predictive diagnoses and thus
+        contribute to less waste of resources.
+
+         Human resources
+
+        ERP software enabled by AI can be proactive, and this is a big
+        advantage because, for example, it can analyze the applicants'
+        data based on their qualification parameters such as skills and
+        experience, it can find out which employee needs to be promoted.
+
+         Sales automation
+
+        Chatbots powered by AI help not only customers but also conduct
+        the whole sales triangle. Now, bots can cope with segmentation
+        and provide responses in real-time. After reviewing our
+        database, the methods used in these articles are as follows
+        (shown in Figure 9). Accordingly, SVM, CNN, reinforcement
+        learning, and autoencoder were the most commonly used tools in
+        the articles. Some of these articles are discussed below;
+
+        15
+
+        Insert Figure 9 Here
+
+        Another framework operating within the IoT ecosystem was
+        presented by Khelifi et al. (2018) for a decision-support system
+        (DSS). The proposed framework, which has been compared with
+        three machine learning prediction model classifiers, i.e., Naïve
+        Bayes, Random Forest, and Decision Tree and empirically
+        evaluated using data sets from a commercial network,
+        demonstrated efficiency with a complete Bayesian network
+        prediction model. Chen and Hao (2019) concentrated on feature
+        dimension reduction of wireless communication signals and took
+        the power amplifier radio frequency (RF) fingerprinting as an
+        example of the output of their efforts. The researches conducted
+        on the RF fingerprint feature dimension reduction method focus
+        mainly on reducing the high dimensionality of RF fingerprint
+        features and the uncorrelated or redundant features in the
+        features space. In another paper, Tang et al. (2017)describe how
+        CNN inference engines can enable deep-learning tasks on IoT
+        devices. Ateeq et al. (2019) employed historical data from
+        machine learning (ML) and proposed a proactive architecture for
+        prediction. Their proposed model named adaptive moving window
+        regression (AMWR) was derived from an adaptive prediction
+        algorithm and was evaluated using a real-world use case (traffic
+        data provided by the city of Madrid) with an accuracy of over
+        96%. Adnan Akbar et al. (2017) presented a proactive
+        architecture that exploits historical data using machine
+        learning (ML) for prediction in conjunction with complex event
+        processing. A semi-supervised deep reinforcement learning model
+        was introduced by Mohammadi et al. (2018), which employs
+        Variational Autoencoders (VAE) as the inference engine to
+        generalize optimal policies. This model can be deployed in
+        applications related to smart cities using labeled and unlabeled
+        data to facilitate the performance as well as the accuracy of
+        the learning agent.
+
+        Tekeste et al. (2018) concentrated on developing technologies
+        such as Machin Learning (ML), cloud Computing as well as IoT in
+        an attempt to develop a more cost-effective system for water
+        quality monitoring replacing the traditional way of quality
+        monitoring. Xiao et al. (2018), on the other hand, concentrated
+        on the IoT system from different perspectives such as the attack
+        model, security solutions based on different techniques of
+        machine learning such as supervised learning, unsupervised
+        learning, and reinforcement learning. Samie et al. (2018),
+        Mohammadi (2018), Khelifi (2018), and Al-Garadi et al. (2018)
+        presented infrastructure toolsets that provide elastic
+        provisioning of application components on resource-constrained
+        and heterogeneous edge devices in large-scale IoT deployments.
+        After reviewing the papers and results, we have discussed the
+        machine learning and deep learning approaches in more detail.
+        The advantages, disadvantages,
+
+        16
+
+        and applications and references to these methods are presented
+        in Tables 5 and 6.
+
+        Insert Tables 5 and 6 Here
+
+        4.1.3. The challenge related to cloud ERR and IoT
+
+        Several challenges have been discussed in the reviewed articles.
+        As mentioned, because IoT systems are associated with cloud ERP,
+        many challenges, open issues, and future directions are
+        associated with cloud services (Brous et al., 2019; Karimanzira
+        and Rauschenbach, 2019; Gubbi et al., 2013; Amendola et al.,
+        2014; Kamilaris and Pitsillides, 2016; Cai et al., 2017; Samie
+        et al., 2018; Cui et al., 2018).
+
+        1.1.3.1.Heterogeneity
+
+        A big problem with the cloud ERP-IoT paradigm lies in the
+        extensive heterogeneity of available devices, operating systems,
+        platforms and services, and possibly recently upgraded
+        applications. cloud platform heterogeneity is not something to
+        be overlooked. Typically, there is an overlap in ownership of
+        objects for cloud services, allowing for proper merging and
+        customization of resources according to each provider. This
+        problem is exacerbated when users take advantage of multiple
+        cloud platforms.
+
+        Providers should consider target scenarios, analytic
+        requirements, choice of hardware and software environments, a
+        combination of heterogeneous subsystems, development, and
+        delivery of computing infrastructure, and provision of
+        maintenance services for each service or application. On the
+        other hand, thanks to the presentation paradigms of cloud
+        services, it is hoped that the IoT paradigm will easily end up
+        in IoT service provision, although the implementation requires
+        solving the big problem of heterogeneity. For example, it is
+        necessary to appropriately combine (and manage) a large number
+        of highly heterogeneous objects (and their correspondingly
+        generated data) across different levels of the cloud platform.
+        This problem encompasses a variety of dimensions, and its
+        solutions are under consideration based on integrated platforms
+        and middleware, interactive programming interfaces, duplication
+        tools in the presence of data variety, and so forth (Alam et
+        al., 2017).
+
+        4.1.3.2. Functionality
+
+        In this section, we focus on the challenges related to
+        Functionality discussed in the reviewed articles:
+
+        a) Performance
+
+        Most cases of cloud ERP-IoT paradigm applications provide
+        specific functionality and quality of
+
+        17
+
+        service (QoS) requirements (for example, communication and
+        computing and storage aspects) and, in some scenarios, meet
+        requirements that are not easily accessible. Specifically,
+        achieving stable and acceptable network performance for the
+        cloud paradigm is a major problem as the increasing bandwidth
+        does not lead to an evolution in storage and computing since
+        timeliness is greatly influenced by unpredictable problems,
+        real-time applications are essentially vulnerable to performance
+        bottlenecks.
+
+        b) Latency (Delay)
+
+        The term latency, also known as turnaround time, in the context
+        of mobile cloud computing, means the time when the computation
+        is offloaded, and the results are received from the nearby
+        infrastructure or cloud.
+
+        c) Energy efficiency
+
+        Energy efficiency refers to a way through which the growth of
+        energy consumption can be managed and prevented. By delivering
+        more services for the same energy input or for the same services
+        for less energy input, maybe something more energy efficient.
+
+        d) Resource limitations
+
+        Since the IoT architecture is resource-constrained, it has been
+        difficult to define a robust security mechanism for it, and thus
+        in order to work within such constraints, the algorithms have to
+        be limited. For a successful implementation of IoT security and
+        communication protocols, the storage and energy requirements
+        need to be managed with each broadcast or multicast necessary
+        for keys or certificates exchange. This means that these
+        protocols should be lightweight and energy-efficient despite the
+        complicated computations and improved energy harvesting techniques.
+
+        e) Cost-effectiveness
+
+        A major challenge for the SIoT application is to provide an
+        efficient and profitable service development for energy and
+        computing costs. A major challenge for the SIoT application is
+        to provide an efficient and profitable service development for
+        energy and computing costs. Multiple processes can run
+        simultaneously, which may change as per variation in
+        applications and user requirements.
+
+        f) Reliability
+
+        In the field of intelligent transportation, cars are usually on
+        the move most of the time, and vehicle networking and
+        communications are often disrupted or unreliable. When using
+        applications in limited-resource environments, there are a few
+        problems with a crash or lack of sustained
+
+        18
+
+        availability of the device. On the other hand, cloud
+        capabilities help overcome some of these problems; for instance,
+        cloud technology improves the reliability of devices by making
+        it possible to reduce the burden of heavy tasks and thereby
+        increase battery life or enable modular architecture;
+        alternatively, the technology itself has uncertainties regarding
+        data center virtualization or resource depletion.
+
+        4.1.3.2. Large scale
+
+        New applications can be designed using the cloud ERP-IoT
+        paradigm to integrate and analyze the information received from
+        (embedded) real-world tools. Some of the presented scenarios
+        implicitly require interaction with a large number of these
+        tools, which are usually scattered across large environments.
+        The large scale of the mentioned systems makes it more difficult
+        to solve common problems (for example, when dealing with
+        long-life data that are collected at high speeds, the
+        requirements of storage capacity and computing capability will
+        be increasingly difficult to meet). In addition, the
+        distribution of IoT tools complicates monitoring tasks due to
+        dynamic time lag and connectivity issues.
+
+        4.1.3.3. Big data
+
+        Special attention must be paid to the transfer, storage, and
+        access and processing of the enormous amount of data that will
+        be generated given 50 billion devices estimated to be connected
+        to the network by 2020. Thanks to recent advances in technology,
+        IoT will be a major source of big data, and our cloud system
+        enables us to store and analyze complex data for long periods
+        and perform complex analytics on them. The ubiquity of mobile
+        devices and sensors inevitably requires scalable computing
+        platforms. Convenient handling of this volume of data is a
+        sensitive issue since the overall performance of applications
+        depends heavily on the features of data management services. For
+        instance, cloud-based approaches to summarizing big data based
+        on extracting semantic features are under investigation. Hence,
+        following the NoSQL movement, both proprietary and open-source
+        solutions use alternative database technologies for big data,
+        which includes: time series, key-value, key-value repositories,
+        large column repositories, and graph databases. Unfortunately,
+        there is no excellent data management solution for the cloud
+        system to handle big data. Moreover, data integrity is
+        considered an important factor not only because of its impact on
+        service quality but due to the security and privacy dimensions
+        that are particularly relevant to outsourced data.
+
+        4.1.3.4. Sensor network
+
+        19
+
+        Sensor networks have been defined as the major enablers of IoT
+        and one of the five technologies that are shaping our world,
+        giving us the ability to measure, understand and perceive
+        environmental signals; recent advances in technology have
+        allowed for efficient, inexpensive, and low-cost small tools to
+        be used for remote sensing applications on a large scale.
+        Furthermore, despite their limitations in battery consumption
+        and reliability, smartphones have multiple sensors (GPS,
+        accelerator, digital compass, microphone, and camera) that
+        support a wide range of mobile applications in various areas of
+        IoT. In this context, the timely processing of massively
+        transmitted sensor data, which are vulnerable to power and
+        network constraints, is a newly introduced problem. The cloud
+        system offers new opportunities to collect sensor data and use
+        them for widespread coverage and relevance, but at the same time
+        overshadows the privacy and security aspects. In addition,
+        although IoT devices are not mobile, which is considered a
+        common dimension, the sensitivity of sensors in smartphones and
+        wearable electronics devices is still a problem.
+
+        4.1.3.5. Monitoring
+
+        It has been widely documented in resources that surveillance is
+        an essential activity in cloud environments for capacity
+        planning, resource management, service level agreements,
+        performance, and security as well as troubleshooting. As a
+        result, the cloud ERP-IoT paradigm has the same regulatory
+        requirements as the cloud system; however, the problems
+        associated with this paradigm are also sensitive to the
+        properties of the volume, variety, and speed of IoT.
+
+        4.1.3.6. Fog computing
+
+        Fog computing is part of the classic cloud computing operating
+        on the periphery of the network. It is a system designed to
+        support IoT applications with features such as time delay
+        constraints and requirements concerning mobility and geographic
+        distribution. Although computing, storage, and networking of
+        resources are both cloud and fog systems, the latter has certain
+        features as follows: being on the edge of the network and aware
+        of the time-delayed geographic location; geographic distribution
+        and a large number of nodes compared to concentrated cloud
+        system; support for object mobility (via wireless communication)
+        and real-time interaction (rather than batch processing);
+        support for interaction. It is difficult to design cloud
+        computing projects in multiple forms. Certainly, adopting
+        cloud-based approaches requires a variety of specific algorithms
+        and methodologies that examine the reliability of smart device
+        networks and operate under specific conditions demanding
+        error-resolving methods.
+
+        4.1.3.7. Security
+
+        20
+
+        This section discusses the security challenges discussed in the
+        articles (Restuccia et al., 2018).
+
+         Security and trust management
+
+        When it comes to the widespread adaptation of technology,
+        security is always a critical issue. It is essential to
+        establish a trust to strengthen communication among two or more
+        IoT devices. Efficient authentication and trust management tasks
+        in different SIoT application scenarios need to be ensured
+        through flexible and strong security protocols within OS, each
+        of which may require a specific kind of encryption algorithm.
+        However, for implementing these algorithms, they need to be
+        computationally less intensive; they need to operate in
+        real-time to prevent performance degradation, and finally, they
+        should take into account the memory and latency requirements.
+        Correspondingly, the memory handling can also raise security
+        concerns.
+
+         Privacy
+
+        Data privacy is of great significance since it poses a major
+        challenge preventing consumers from adopting cloud computing.
+        The consumers’ trust must be established to meet this challenge,
+        and this can be achieved when the application models cover
+        application development with privacy protection and implicit
+        authentication mechanisms (Marjani et al., 2017).
+
+        4.1.3.8. Complex environment
+
+        A complicated IoT ecosystem is made of various elements such as
+        software programs, hardware devices, different connected
+        objects, and, most importantly, a large number of end-users.
+        Some practical applications are built based on this ecosystem,
+        demonstrating its influence. However, real-time IoT applications
+        mostly demand a large amount of data, which requires storage and
+        processing resources to extract intelligent information, and
+        this is almost an uncharted territory in the existing IoT
+        literature.
+
+        4.1.3.9. Real-time processing
+
+        Since a considerable number of requests from various types of
+        smart applications along with fast responses are managed in the
+        IoT ecosystem simultaneously, compared with the cloud-based
+        applications, IoT applications
+
+
+          Attachments
+
+      o Tavana et al. - 2020 - IoT-based enterprise resource planning
+        Challenges.pdf
+  *
+
+
+        Lab-On-Chip, Internet of Things, Analytics and Health Care 4.0:
+        A synergistic future forward
+
+    Item Type 	Journal Article
+    Author 	Vigneswaran Narayanamurthy
+    Author 	K.S. Bhuvaneshwari
+    Author 	Z.E. Jeroish
+    Author 	Fahmi Samsuri
+    Abstract 	Abstract In this era of the internet with the latest
+    technology and rapid communication, the various fields of processes
+    and business are led to the road of automation in recent days. The
+    major part of this automation is that they help in the cost
+    reduction with increased safety measures and also results in
+    absolute portability of the equipment. To indulge in continuous
+    processing, and also to identify the best technology, the analytical
+    methods must be directly involved in decision making. This
+    revolution in analytical methods is named as Analytics 4.0, which
+    has a significant role in healthcare and diagnostics. The
+    self-assessment and decentralization of the data acquiring can be
+    motivated with the help of the microfluidic biosensors and biochip.
+    It also helps in the immediate access of the information without
+    resulting in delay. Diagnostic 4.0 helps in storing the patient
+    details as cloud files providing high security and also analyze them
+    through the deep learning algorithms. It also helps in constant
+    monitoring on a broad scale and reliable assessment through
+    monitoring apps that can shift the health care efficiency to the
+    next notch. Hence the evolution of the healthcare sector has
+    multiple generations listed with numerous advances which stand as
+    the boon in this era.
+    Date 	2020-03-01
+    Short Title 	Lab-On-Chip, Internet of Things, Analytics and Health
+    Care 4.0
+    Library Catalog 	DOI.org (Crossref)
+    URL 	https://iopscience.iop.org/article/10.1088/1742-6596/1502/1/012023
+    Accessed 	9/4/2024, 9:59:26 PM
+    Volume 	1502
+    Pages 	012023
+    Publication 	Journal of Physics: Conference Series
+    DOI 	10.1088/1742-6596/1502/1/012023
+    <http://doi.org/10.1088/1742-6596/1502/1/012023>
+    Issue 	1
+    Journal Abbr 	J. Phys.: Conf. Ser.
+    ISSN 	1742-6588, 1742-6596
+    Date Added 	9/4/2024, 9:59:26 PM
+    Modified 	9/4/2024, 9:59:26 PM
+
+
+          Notes:
+
+      o
+
+        Generative Summary : *Lab-On-Chip, Internet of Things,
+        Analytics, and Health Care 4.0: A Synergistic Future Forward*
+
+        *Evolution of Healthcare Devices*
+
+          + The evolution of healthcare devices has resulted in four
+            generations, with advancements in automation and analytical
+            methods.
+          + First two generations were easily adopted, while the third
+            generation faced challenges initially.
+          + The fourth generation devices are highly automated,
+            time-efficient, and provide real-time data transmission.
+          + Advancements include smartphone-based microfluidic biosensor
+            systems and miniaturization of equipment for automated assays.
+
+        *Impact of Technology on Decision-Making in Healthcare*
+
+          + Analytics 4.0 plays a crucial role in automation and
+            connection to IT and computing methodologies.
+          + The integration of analytical methods with IoT contributes
+            to decision-making processes by providing analytical data.
+          + The evolution of Analytics 4.0 is supported by remote
+            sensing areas, cloud storage, and real-time data transmission.
+          + Deep learning algorithms enhance data analysis and
+            contribute to the success of healthcare automation.
+
+        *Recent Advances in Healthcare Technology*
+
+          + Advancements include Next Generation Sequencing for
+            diagnostic tests, rapid assays in diagnostics, and
+            spectroscopic methods for chemical synthesis monitoring.
+          + Direct involvement of analytical chemistry procedures in
+            decision-making processes and the digitalization of patient
+            data for preventive healthcare.
+          + Fog Computing for healthcare environments, systematic
+            literature reviews on technology applications in hospitals,
+            and advancements in microfluidics and LOC technology for
+            drug discovery.
+
+        *Future Perspectives*
+
+          + The evolution of analytical devices and the comparison of
+            their efficient working are essential for the development of
+            healthcare 4.0.
+          + Researchers can focus on individual requirements, employee
+            empowerment, and complete automation of devices for better
+            analysis and accurate results.
+          + Application areas include health care, smart homes, food and
+            agricultural systems, environmental monitoring, and
+            industrial processes.
+          + The goal is to solve ubiquitous challenges in society
+            through the integration of advanced technologies in healthcare.
+
+
+          Attachments
+
+      o Narayanamurthy et al. - 2020 - Lab-On-Chip, Internet of Things,
+        Analytics and Hea.pdf
+  *
+
+
+        The boon and bane of ICT services to small and medium-sized
+        tourism and hospitality enterprises (SMTHEs) in northern Ghana
+
+    Item Type 	Journal Article
+    Author 	Frederick Dayour
+    Author 	Stephen Adongo
+    Author 	Enoch Akwasi Kosoe
+    Date 	2023-05-04
+    Language 	en
+    Library Catalog 	DOI.org (Crossref)
+    URL 	https://www.tandfonline.com/doi/full/10.1080/13215906.2023.2217800
+    Accessed 	9/4/2024, 9:54:28 PM
+    Volume 	30
+    Pages 	255-273
+    Publication 	Small Enterprise Research
+    DOI 	10.1080/13215906.2023.2217800
+    <http://doi.org/10.1080/13215906.2023.2217800>
+    Issue 	2
+    Journal Abbr 	Small Enterprise Research
+    ISSN 	1321-5906, 1175-0979
+    Date Added 	9/4/2024, 9:54:28 PM
+    Modified 	9/4/2024, 9:54:28 PM
+
+  *
+
+
+        The Transformative Effect of the Internet of Things on Business
+        and Society
+
+    Item Type 	Journal Article
+    Author 	Michel Avital
+    Author 	Alan R. Dennis
+    Author 	Matti Rossi
+    Author 	Carsten Sørensen
+    Author 	Aaron French
+    Abstract 	This paper summarizes the discussion in a panel session on
+    the Internet of things (IoT) at the 2017 International Conference on
+    Information Systems (ICIS) in Seoul, Korea. The panel explored a
+    research agenda on IoT technology and its interaction with business
+    and society. IoT refers to the ever-growing number of numerous
+    physical devices that feature software and location-based
+    technologies that connect together in a network and exchange data
+    with one another. IoT has garnered significant attention in
+    information systems due to its rapidly expanding market and demand
+    from a wide range of stakeholders such as consumers, businesses
+    organizations, and government agencies. The IoT may be the next
+    industrial revolution in which interconnected physical devices will
+    automate skills and tasks. In today’s hyper-connected economy, IoT
+    can radically transform businesses and society through increased
+    transparency, optimized production processes, and decreased
+    operating expenses. Overall, the panel identified a sixpronged IS
+    research agenda for IoT that comprises the IoT’s impact on business
+    and society, IoT monetization and end-user services, the IoT as a
+    distributed platform, the convergence of the IoT and blockchain,
+    security concerns and solutions, and the IoT and ethics. The paper
+    concludes with a future direction for IoT.
+    Date 	2019
+    Library Catalog 	DOI.org (Crossref)
+    URL 	https://aisel.aisnet.org/cais/vol44/iss1/5
+    Accessed 	9/4/2024, 9:44:58 PM
+    Volume 	44
+    Pages 	129-140
+    Publication 	Communications of the Association for Information Systems
+    DOI 	10.17705/1CAIS.04405 <http://doi.org/10.17705/1CAIS.04405>
+    Journal Abbr 	CAIS
+    ISSN 	15293181
+    Date Added 	9/4/2024, 9:44:58 PM
+    Modified 	9/4/2024, 10:10:01 PM
+
+
+          Notes:
+
+      o
+
+        Generative Summary : The document discusses the transformative
+        effect of the Internet of Things on business and society,
+        including its impact, research agenda, and future directions.
+
+
+        *Introductory content*
+
+        The transformative impact of Internet of Things on business and
+        society is discussed in this article.
+
+          + The article explores the transformative effect of Internet
+            of Things on business and society, with 45 citations.
+          + Authors include Jung P. Shim with 157 publications and 5,168
+            citations, and Alan R. Dennis with 306 publications and
+            24,370 citations.
+          + Michel Avital from Copenhagen Business School and Matti
+            Rossi from Aalto University are also involved in the research.
+          + The article has been read 5,968 times and was published in
+            January 2019 in the Communications of the Association for
+            Information Systems.
+
+        *Recommended Citation*
+
+        The article discusses the transformative effect of the Internet
+        of Things on business and society. It has been accepted for
+        inclusion in Communications of the Association for Information
+        Systems. The study explores the implications of IoT on various
+        sectors, highlighting its potential for growth and innovation.
+        The research emphasizes the significant role of IoT in shaping
+        the future of business and society. The findings suggest a
+        positive impact of IoT on enhancing efficiency and connectivity
+        in organizations. The study provides insights into the potential
+        benefits and challenges of implementing IoT technologies in
+        different industries. The research underscores the importance of
+        understanding the implications of IoT for businesses and
+        society. The article aims to shed light on the opportunities and
+        risks associated with the adoption of IoT in various sectors.
+        Overall, the study highlights the transformative potential of
+        IoT in driving innovation and growth in business and society.
+
+        *The Transformative Effect of the Internet of Things on Business
+        and Society*
+
+        Panel report on IoT research agenda at ICIS 2017 in Seoul,
+        covering impact on business and society, monetization, security,
+        and ethics.
+
+          + Panel discussed IoT technology and its interaction with
+            business and society at ICIS 2017 in Seoul, Korea.
+          + IoT refers to physical devices with software and
+            location-based technologies connecting in a network.
+          + Six-pronged IS research agenda for IoT identified, including
+            impact on business and society, security concerns, and ethics.
+          + IoT can transform businesses and society through increased
+            transparency, optimized production processes, and decreased
+            operating expenses.
+
+        *1 Introduction*
+
+        This section discusses the impact, challenges, and opportunities
+        of IoT in business and society.
+
+          + McKinsey & Company projects a 15% annual increase in
+            companies' connectivity expenditures through 2022.
+          + Gartner, Deloitte, McKinsey, and Info-Tech Research Group
+            project the IoT industry to be a multi-trillion-dollar
+            opportunity with 50 billion devices connected by 2020.
+          + IoT enables automation of tasks and skills, shaping the
+            fourth industrial revolution.
+          + IoT consumer products like connected cars and wearable
+            devices have impacted daily lives through service automation.
+          + IoT applications can increase efficiency, improve quality of
+            life, and enable better management.
+          + Concerns exist about the negative impact of IoT on work
+            nature and data security.
+          + Challenges in IoT include connection efficiency, security,
+            data analytics, and monetization of end-user services.
+          + The panel at the 2017 International Conference on
+            Information Systems explored a research agenda for IoT.
+
+        *2 Internet of Things in the Business Context*
+
+        The section discusses the application of IoT in different
+        industries, the types of IoT, and challenges faced in the IoT
+        market.
+
+          + IoT can be applied in utilities, transportation, consumer
+            electronics, smart cities, smart buildings, and industrial
+            automation.
+          + Consumer IoT includes devices like smartphones, while
+            industrial IoT transforms industries like power companies.
+          + Businesses use IoT to improve productivity, reduce expenses,
+            and develop new products.
+          + Research focuses on digital platforms, multisided markets,
+            and innovation dynamics in the IoT.
+          + Companies like General Electric, Siemens, and Samsung are
+            developing IoT middleware and platforms.
+          + The IoT market is diverse, making domination by a few
+            companies unlikely.
+          + Lack of collaboration and interoperability between IoT
+            platforms can lead to a fragmented user experience.
+          + The IoT industry needs more open standards and interoperable
+            services for better user experience.
+
+        *3 IS Research Agenda for IoT*
+
+        This section discusses the impacts of IoT on business and
+        society, IoT monetization, security concerns, and the
+        convergence of IoT and blockchain.
+
+          + The IoT's most significant impacts will be realized over
+            decades rather than years.
+          + The demand for IoT-enabled development has continually
+            increased, but the supply of programmers has remained
+            stagnant over the past decade.
+          + IoT can transform society by creating smart cities and
+            streamlining supply chain management.
+          + Blockchain technology can authenticate the identity of nodes
+            in a network and provide data security solutions.
+          + IoT and blockchain convergence offer research opportunities
+            for IS scholars.
+          + Drones are being used in various applications such as energy
+            conservation and security monitoring.
+          + Security issues arise from IoT devices not receiving
+            security patches, leading to potential disruptions.
+          + Ethical research is crucial in IoT, particularly in areas
+            like healthcare, manufacturing, and transportation.
+
+        *4 Conclusion*
+
+        The section discusses IoT project initiatives, challenges,
+        benefits, and the need for programming courses in universities.
+        It also highlights the importance of interoperability and
+        responsible advancement in IoT technology.
+
+          + 60% of IoT projects stall at the proof-of-concept stage,
+            with only 26% considered successful (ITP.net, 2017).
+          + Top benefits of IoT include improved customer satisfaction,
+            operational efficiencies, and profitability.
+          + Demand for programmers in IoT development is increasing,
+            requiring universities to rethink programming courses.
+          + Blockchain technology can be leveraged for developing IoT
+            networks.
+          + Interoperability is crucial for IoT networks, especially for
+            small and medium-sized companies.
+          + IoT devices can create new business models and enhance
+            revenue through data utilization.
+          + As more devices connect to the Internet, the risk of data
+            exposure increases.
+          + Responsible advancement in IoT technology is essential to
+            mitigate risks and ensure privacy and security.
+
+        *Acknowledgments*
+
+        The panel audience at the 2017 International Conference on
+        Information Systems provided helpful comments. Professor Olivia
+        Sheng also served as a panelist.
+
+        *About the Authors*
+
+        This section introduces prominent experts in the field of
+        Information Systems, covering topics such as digital innovation,
+        entrepreneurship, team collaboration, and IS security.
+
+          + J. P. Shim is a CIS faculty and KABC Director at Georgia
+            State, with a background in grants, publications, and
+            teaching at various universities.
+          + Michel Avital focuses on digital innovation entrepreneurship
+            and has published over 100 papers on topics such as
+            blockchain technology and open data.
+          + Alan R. Dennis is a Professor at Indiana University,
+            specializing in team collaboration, digital nudging, and IS
+            security.
+          + Matti Rossi, a Professor at Aalto University, has won awards
+            for open source and data research and has published in top
+            journals.
+          + Carsten Sørensen, a Reader at LSE, has researched digital
+            innovation since the 1980s and has extensive industry
+            consulting experience.
+          + Aaron M. French, an Assistant Professor at University of New
+            Mexico, has research interests in Internet of things, social
+            networking, and cross-cultural studies.
+
+
+          Attachments
+
+      o Full Text
+      o TheTransformativeEffectoftheInternetofThingsonBusinessa.pdf
+  *
+    Item Type 	Blog Post
+    Date Added 	9/4/2024, 9:51:37 PM
+    Modified 	9/4/2024, 9:51:37 PM
+
+
+          Notes:
+
+      o
+
+        Web page content - *Will AI be a bane or boon for global
+        development?*
+
+          + *Home <https://www.undp.org/>*
+          + *Blog <https://www.undp.org/blog>*
+          + *Will AI be a bane or boon for global development?*
+
+
+            *Will AI be a bane or boon for global development?*
+
+
+                    *May 18, 2018*
+
+
+                  Author
+
+
+                    *Tatsiana Hulko
+                    <https://www.undp.org/authors/tatsiana-hulko>*
+
+        Corporate Engagement and Business Development Lead, Business
+        Call to Action, UNDP <https://www.undp.org/authors/tatsiana-hulko>
+
+        */
+        From tracking cattle to bespoke weather forecasts, AI technology
+        is helping smallholders across Asia and Africa. But it is by no
+        means clear yet whether it will be a game changer in eliminating
+        global poverty./*
+
+        Anyone following tech news these days understands that the
+        coexistence of artificial intelligence (AI) and mankind – and
+        the ethical conflicts that may arise from it – is no longer
+        science fiction. There is unease about AI influencing our online
+        shopping and social media habits; about it replacing both menial
+        and high-skilled jobs; enhancing surveillance and policing, and
+        contributing to the development of more sophisticated weapons.
+
+        The primary concern for businesses and governments today is how
+        to better understand and harness big data, the internet of
+        things
+        <https://www.theguardian.com/technology/2015/may/06/what-is-the-internet-of-things-google>,
+        exponentially rising computing power and speed, memory capacity
+        and intelligent algorithms. For those working in international
+        development, the motivation is to apply the promise and
+        potential of AI towards solving some of the world’s most
+        challenging economic, social and environmental issues.
+
+        Artificial intelligence is not one specific technology, but
+        rather a broad spectrum of computer systems and applications
+        that have the ability to perform tasks associated with human
+        intelligence. With its unparalleled capacity to mine and parse
+        vast amounts of data in record time; precision in identifying
+        and collecting information even from locations and market
+        segments where data is scarcely available; and its predictive
+        and responsive power, AI technology stands to progress
+        development and humanitarian efforts at a rate never witnessed
+        before.
+
+        US-based aWhere
+        <https://www.businesscalltoaction.org/member/awhere> and
+        Swedish Ignitia
+        <https://www.businesscalltoaction.org/member/ignitia>, both
+        members of the UN’s Business Call to Action (BCtA) platform, are
+        already using predictive AI, proprietary algorithms and advanced
+        analytics to deliver agricultural intelligence and
+        ultra-accurate weather forecasts to smallholder farmers in
+        Africa and Asia.
+
+        Initially a research project to improve accuracy of weather
+        predictions, Ignitia pioneered a tropical weather forecasting
+        model, and the organization say that has proven to be 84 percent
+        accurate, more than twice as accurate as global forecasts
+        <http://www.ignitia.se/iska>. Today, 329,000 small-scale farmers
+        in west Africa rely on it for GPS-specific weather forecasts to
+        make better and quicker decisions regarding sowing and planting,
+        application of fertilizers, and harvesting. All the farmers need
+        is a standard phone – Ignitia takes satellite data, runs it
+        through the AI model and sends out tailored text message forecasts.
+
+        Will AI be a bane or boon for global development?
+
+        Artificial intelligence is not one specific technology, but
+        rather a broad spectrum of computer systems and applications
+        that have the ability to perform tasks associated with human
+        intelligence. Photo by Charles Deluvio on Unsplash
+
+         
+
+        According to Ignitia, an independent study carried out by
+        University of California Berkeley in 2017 found that harvests
+        increased by 65 percent on average after just one season with
+        Iska (Ignitia’s flagship service), and resulted in farmers
+        earning up to US$480 more from their crops. Considering it only
+        comes to 2 percent of total input costs, farmers are already
+        seeing the benefits.
+
+        Global predictions for AI in agriculture suggest it will be
+        worth more than $2.6 billion by 2025
+        <https://www.marketsandmarkets.com/PressReleases/ai-in-agriculture.asp>.
+        Increased investments are propelling the development and
+        commercial deployment of technologies, from yield prediction
+        algorithms to drone irrigation and discovery of next-generation
+        proteins in biotechnology.
+
+        Uruguayan agtech startup Chipsafer
+        <https://www.chipsafer.com/> produces wearable technology that
+        tracks livestock activity in near real-time, detects anomalies
+        in cattle behaviour and helps isolate disease outbreaks.
+        Individual animals are fitted with solar powered collars or tags
+        that collect, process, and transmit data to Chipsafer’s
+        analytical centres, allowing ranchers from Brazil to Australia
+        to improve herd production, prevent cattle theft and contain the
+        outbreak of diseases before they spread.
+
+        The company is currently offering technological solutions around
+        livestock insurance too. “Our technology provides accurate and
+        timely data on livestock herds, soil conditions, pasture quality
+        and water sources – the data that is currently missing for
+        determining risk and insurance profiles for rural livestock,”
+        says founder and chief executive Victoria Alonsoperez.
+        “Chipsafer stands ready to develop new index based livestock
+        insurance offerings, which will bring transformational benefits
+        for the farmers.”
+
+        These solutions are already available for many large-scale
+        commercial farmers, and companies such as BCtA members in the
+        agricultural sector are working to make them accessible for the
+        world’s 2.5 billion smallholder growers and their families. It
+        is the owners of the smallest plots who stand to benefit the
+        most from the democratization and broad uptake of AI solutions
+        as their first line of defence against challenges such as
+        climate change, a growing population and food security.
+        Ultimately, AI could be a game changer in eliminating hunger,
+        reducing poverty and achieving responsible consumption and
+        production.
+
+        Some experts might say it could still be decades before machine
+        intelligence becomes ubiquitous or is hailed as either boon or
+        bane of human existence. It is up to the current generation to
+        shape the commercial, ethical and regulatory context in which
+        the technology develops, to serve rather than harm humankind.
+        One thing is clear – the old systems are falling short in the
+        face of the daunting challenges of today, and we only have the
+        future to look to for solutions.
+         
+
+        */About Business Call to Action (BCtA): /*/Launched at
+        the United Nations <http://www.un.org/> in 2008, BCtA aims to
+        accelerate progress towards the sustainable development goals
+        (SDGs)
+        <https://www.undp.org/content/undp/en/home/mdgoverview/post-2015-development-agenda> by
+        challenging companies to develop inclusive business models that
+        offer the potential for both commercial success and development
+        impact. Find out more at businesscalltoaction.org
+        <http://www.businesscalltoaction.org/>/
+          <http://www.businesscalltoaction.org/>
+
+
+          Attachments
+
+      o Will AI be a bane or boon for global development?
+
