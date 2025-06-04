@@ -1,0 +1,730 @@
+---
+# ====== Page: Dashboard =====================================
+id: 2
+identification: 
+  name: Dashboard
+  alias: DASHBOARD
+  title: Dashboard
+
+appearance: 
+  page-mode: Normal
+  page-template: Theme Default
+  template-options: 
+  - '#DEFAULT#'
+
+navigation-menu: 
+  override-user-interface-level: false
+
+navigation: 
+  cursor-focus: Do not focus cursor
+  warn-on-unsaved-changes: true
+
+security: 
+  authentication: Page Requires Authentication
+  deep-linking: Application Default
+  page-access-protection: Arguments Must Have Checksum
+  form-auto-complete: Off
+  browser-cache: Application Default
+
+session-management: 
+  rejoin-sessions: Application Default
+
+advanced: 
+  enable-duplicate-page-submissions: Yes - Enable page to be re-posted
+  reload-on-submit: Only for Success
+
+server-cache: 
+  caching: Disabled
+
+regions: 
+- # ====== Region: Budget ======================================
+  id: 52608382157614296117
+  identification: 
+    name: Budget
+    type: Chart
+
+  source: 
+    location: None
+
+  layout: 
+    sequence: 10
+    parent-region: No Parent
+    slot: BODY
+    start-new-layout: false
+    start-new-row: true
+    column: Automatic
+    new-column: true
+    column-span: Automatic
+
+  appearance: 
+    template: Standard
+    template-options: 
+    - '#DEFAULT#'
+    - t-Region--scrollBody
+    render-components: Above Content
+
+  accessibility: 
+    use-landmark: true
+    landmark-type: Template Default
+
+  advanced: 
+    region-display-selector: false
+    exclude-title-from-translation: false
+
+  security: 
+    escape-special-characters: false
+
+  customization: 
+    customizable: Not Customizable By End Users
+
+  attributes: 
+    id: 52608382597170296118
+    chart: 
+      type: Bar
+
+    appearance: 
+      orientation: Vertical
+      stack: false
+
+    data-cursor: 
+      cursor: Automatic
+      behavior: Automatic
+      dim-on-hover: true
+
+    multi-series-chart-data: 
+      fill-gaps-in-chart-data: true
+      sort-order: Label - Ascending
+      render-gap-as-zero: true
+
+    settings: 
+      zoom-and-scroll: No
+
+    animation: 
+      on-display: Automatic
+      on-data-change: Automatic
+
+    tooltip: 
+      show: true
+      show-series-name: true
+      show-group-name: true
+      show-value: true
+
+    legend: 
+      show: false
+
+    series: 
+    - # ====== Series: Series 1 ====================================
+      id: 52608384201192296119
+      identification: 
+        name: Series 1
+
+      execution: 
+        sequence: 10
+
+      source: 
+        location: Local Database
+        type: Table / View
+        table-owner: Parsing Schema
+        table-name: TMDB5000B
+        include-rowid-column: false
+
+      order-by: 
+        type: None
+
+      column-mapping: 
+        label: BUDGET
+        value-aggregation: Count
+
+      appearance: 
+        assigned-to-y2-axis: false
+
+      link: 
+        type: Redirect to Page in this Application
+        target: 
+          url: 'f?p=&APP_ID.:4:&APP_SESSION.::&DEBUG.:RR:IR_BUDGET:\&BUDGET.\'
+          page: 4 # Tmdb5000b Report
+          clear-cache: RR
+          values: 
+            ir_budget: '&BUDGET.'
+
+      label: 
+        show: false
+
+      performance: 
+        maximum-rows-to-process: 20
+
+    axes: 
+    - # ====== Axis: x =============================================
+      id: 52608383030105296118
+      identification: 
+        name: x
+        show-axis: true
+
+      value: 
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+        rotation: true
+        position: Outside
+
+    - # ====== Axis: y =============================================
+      id: 52608383612009296119
+      identification: 
+        name: y
+        show-axis: true
+
+      value: 
+        format: Decimal
+        decimal-places: 0
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      appearance: 
+        position: Automatic
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+
+- # ====== Region: Original Language ===========================
+  id: 52608384820582296120
+  identification: 
+    name: Original Language
+    type: Chart
+
+  source: 
+    location: None
+
+  layout: 
+    sequence: 20
+    parent-region: No Parent
+    slot: BODY
+    start-new-layout: false
+    start-new-row: false
+    column: Automatic
+    new-column: true
+    column-span: Automatic
+
+  appearance: 
+    template: Standard
+    template-options: 
+    - '#DEFAULT#'
+    - t-Region--scrollBody
+    render-components: Above Content
+
+  accessibility: 
+    use-landmark: true
+    landmark-type: Template Default
+
+  advanced: 
+    region-display-selector: false
+    exclude-title-from-translation: false
+
+  security: 
+    escape-special-characters: false
+
+  customization: 
+    customizable: Not Customizable By End Users
+
+  attributes: 
+    id: 52608385201571296121
+    chart: 
+      type: Bar
+
+    appearance: 
+      orientation: Vertical
+      stack: false
+
+    data-cursor: 
+      cursor: Automatic
+      behavior: Automatic
+      dim-on-hover: true
+
+    multi-series-chart-data: 
+      fill-gaps-in-chart-data: true
+      sort-order: Label - Ascending
+      render-gap-as-zero: true
+
+    settings: 
+      zoom-and-scroll: No
+
+    animation: 
+      on-display: Automatic
+      on-data-change: Automatic
+
+    tooltip: 
+      show: true
+      show-series-name: true
+      show-group-name: true
+      show-value: true
+
+    legend: 
+      show: false
+
+    series: 
+    - # ====== Series: Series 1 ====================================
+      id: 52608386981619296122
+      identification: 
+        name: Series 1
+
+      execution: 
+        sequence: 10
+
+      source: 
+        location: Local Database
+        type: Table / View
+        table-owner: Parsing Schema
+        table-name: TMDB5000B
+        include-rowid-column: false
+
+      order-by: 
+        type: None
+
+      column-mapping: 
+        label: ORIGINAL_LANGUAGE
+        value-aggregation: Count
+
+      appearance: 
+        assigned-to-y2-axis: false
+
+      link: 
+        type: Redirect to Page in this Application
+        target: 
+          url: 'f?p=&APP_ID.:4:&APP_SESSION.::&DEBUG.:RR:IR_ORIGINAL_LANGUAGE:\&ORIGINAL_LANGUAGE.\'
+          page: 4 # Tmdb5000b Report
+          clear-cache: RR
+          values: 
+            ir_original_language: '&ORIGINAL_LANGUAGE.'
+
+      label: 
+        show: false
+
+      performance: 
+        maximum-rows-to-process: 20
+
+    axes: 
+    - # ====== Axis: x =============================================
+      id: 52608385796811296121
+      identification: 
+        name: x
+        show-axis: true
+
+      value: 
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+        rotation: true
+        position: Outside
+
+    - # ====== Axis: y =============================================
+      id: 52608386359134296121
+      identification: 
+        name: y
+        show-axis: true
+
+      value: 
+        format: Decimal
+        decimal-places: 0
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      appearance: 
+        position: Automatic
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+
+- # ====== Region: Popularity ==================================
+  id: 52608387505624296122
+  identification: 
+    name: Popularity
+    type: Chart
+
+  source: 
+    location: None
+
+  layout: 
+    sequence: 30
+    parent-region: No Parent
+    slot: BODY
+    start-new-layout: false
+    start-new-row: true
+    column: Automatic
+    new-column: true
+    column-span: Automatic
+
+  appearance: 
+    template: Standard
+    template-options: 
+    - '#DEFAULT#'
+    - t-Region--scrollBody
+    render-components: Above Content
+
+  accessibility: 
+    use-landmark: true
+    landmark-type: Template Default
+
+  advanced: 
+    region-display-selector: false
+    exclude-title-from-translation: false
+
+  security: 
+    escape-special-characters: false
+
+  customization: 
+    customizable: Not Customizable By End Users
+
+  attributes: 
+    id: 52608387999310296122
+    chart: 
+      type: Bar
+
+    appearance: 
+      orientation: Vertical
+      stack: false
+
+    data-cursor: 
+      cursor: Automatic
+      behavior: Automatic
+      dim-on-hover: true
+
+    multi-series-chart-data: 
+      fill-gaps-in-chart-data: true
+      sort-order: Label - Ascending
+      render-gap-as-zero: true
+
+    settings: 
+      zoom-and-scroll: No
+
+    animation: 
+      on-display: Automatic
+      on-data-change: Automatic
+
+    tooltip: 
+      show: true
+      show-series-name: true
+      show-group-name: true
+      show-value: true
+
+    legend: 
+      show: false
+
+    series: 
+    - # ====== Series: Series 1 ====================================
+      id: 52608389656230296123
+      identification: 
+        name: Series 1
+
+      execution: 
+        sequence: 10
+
+      source: 
+        location: Local Database
+        type: Table / View
+        table-owner: Parsing Schema
+        table-name: TMDB5000B
+        include-rowid-column: false
+
+      order-by: 
+        type: None
+
+      column-mapping: 
+        label: POPULARITY
+        value-aggregation: Count
+
+      appearance: 
+        assigned-to-y2-axis: false
+
+      link: 
+        type: Redirect to Page in this Application
+        target: 
+          url: 'f?p=&APP_ID.:4:&APP_SESSION.::&DEBUG.:RR:IR_POPULARITY:\&POPULARITY.\'
+          page: 4 # Tmdb5000b Report
+          clear-cache: RR
+          values: 
+            ir_popularity: '&POPULARITY.'
+
+      label: 
+        show: false
+
+      performance: 
+        maximum-rows-to-process: 20
+
+    axes: 
+    - # ====== Axis: x =============================================
+      id: 52608388424214296123
+      identification: 
+        name: x
+        show-axis: true
+
+      value: 
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+        rotation: true
+        position: Outside
+
+    - # ====== Axis: y =============================================
+      id: 52608389006285296123
+      identification: 
+        name: y
+        show-axis: true
+
+      value: 
+        format: Decimal
+        decimal-places: 0
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      appearance: 
+        position: Automatic
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+
+- # ====== Region: Release Date ================================
+  id: 52608390252665296124
+  identification: 
+    name: Release Date
+    type: Chart
+
+  source: 
+    location: None
+
+  layout: 
+    sequence: 40
+    parent-region: No Parent
+    slot: BODY
+    start-new-layout: false
+    start-new-row: false
+    column: Automatic
+    new-column: true
+    column-span: Automatic
+
+  appearance: 
+    template: Standard
+    template-options: 
+    - '#DEFAULT#'
+    - t-Region--scrollBody
+    render-components: Above Content
+
+  accessibility: 
+    use-landmark: true
+    landmark-type: Template Default
+
+  advanced: 
+    region-display-selector: false
+    exclude-title-from-translation: false
+
+  security: 
+    escape-special-characters: false
+
+  customization: 
+    customizable: Not Customizable By End Users
+
+  attributes: 
+    id: 52608390683831296124
+    chart: 
+      type: Bar
+
+    appearance: 
+      orientation: Vertical
+      stack: false
+
+    data-cursor: 
+      cursor: Automatic
+      behavior: Automatic
+      dim-on-hover: true
+
+    multi-series-chart-data: 
+      fill-gaps-in-chart-data: true
+      sort-order: Label - Ascending
+      render-gap-as-zero: true
+
+    settings: 
+      zoom-and-scroll: No
+
+    animation: 
+      on-display: Automatic
+      on-data-change: Automatic
+
+    tooltip: 
+      show: true
+      show-series-name: true
+      show-group-name: true
+      show-value: true
+
+    legend: 
+      show: false
+
+    series: 
+    - # ====== Series: Series 1 ====================================
+      id: 52608392449216296125
+      identification: 
+        name: Series 1
+
+      execution: 
+        sequence: 10
+
+      source: 
+        location: Local Database
+        type: Table / View
+        table-owner: Parsing Schema
+        table-name: TMDB5000B
+        include-rowid-column: false
+
+      order-by: 
+        type: None
+
+      column-mapping: 
+        label: RELEASE_DATE
+        value-aggregation: Count
+
+      appearance: 
+        assigned-to-y2-axis: false
+
+      link: 
+        type: Redirect to Page in this Application
+        target: 
+          url: 'f?p=&APP_ID.:4:&APP_SESSION.::&DEBUG.:RR:IR_RELEASE_DATE:\&RELEASE_DATE.\'
+          page: 4 # Tmdb5000b Report
+          clear-cache: RR
+          values: 
+            ir_release_date: '&RELEASE_DATE.'
+
+      label: 
+        show: false
+
+      performance: 
+        maximum-rows-to-process: 20
+
+    axes: 
+    - # ====== Axis: x =============================================
+      id: 52608391193662296124
+      identification: 
+        name: x
+        show-axis: true
+
+      value: 
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+        rotation: true
+        position: Outside
+
+    - # ====== Axis: y =============================================
+      id: 52608391706585296125
+      identification: 
+        name: y
+        show-axis: true
+
+      value: 
+        format: Decimal
+        decimal-places: 0
+        format-scaling: Automatic
+        baseline-scaling: Zero
+        scale: Linear
+
+      appearance: 
+        position: Automatic
+
+      major-ticks: 
+        show: Automatic
+
+      minor-ticks: 
+
+      tick-label: 
+        show: true
+
+- # ====== Region: Breadcrumb ==================================
+  id: 52608393021505296126
+  identification: 
+    name: Breadcrumb
+    type: Breadcrumb
+
+  source: 
+    breadcrumb: Breadcrumb # 52608362087458296083
+
+  layout: 
+    sequence: 20
+    parent-region: No Parent
+    slot: REGION_POSITION_01
+    start-new-layout: false
+    start-new-row: true
+    column: Automatic
+    new-column: true
+    column-span: Automatic
+
+  appearance: 
+    template: Title Bar
+    template-options: 
+    - '#DEFAULT#'
+    - t-BreadcrumbRegion--useBreadcrumbTitle
+    render-components: Above Content
+
+  accessibility: 
+    use-landmark: true
+    landmark-type: Template Default
+
+  advanced: 
+    region-display-selector: false
+    exclude-title-from-translation: false
+
+  customization: 
+    customizable: Not Customizable By End Users
+
+  attributes: 
+    appearance: 
+      breadcrumb-template: Breadcrumb
+      template-options: 
+      - '#DEFAULT#'
+
